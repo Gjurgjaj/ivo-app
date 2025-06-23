@@ -1,0 +1,46 @@
+@import "../../variables";
+@import "../../typography";
+
+.status {
+  display: flex;
+  align-items: center;
+  border-radius: 16px;
+  padding: 2px 8px;
+  width: fit-content;
+  text-transform: capitalize;
+
+  @include typography(12px, 500, 18px, 0, center);
+
+  &__light {
+    background-color: $gray-100;
+    color: $gray-700;
+
+    svg {
+      color: $gray-700;
+    }
+  }
+
+  &__success {
+    background-color: $green-600;
+    color: white;
+
+    svg {
+      color: white;
+    }
+  }
+
+  &__fail {
+    background-color: $red-600;
+    color: white;
+
+    svg {
+      color: white;
+    }
+  }
+
+  svg {
+    width: 15px;
+    height: 15px;
+    margin-right: 7px;
+  }
+}

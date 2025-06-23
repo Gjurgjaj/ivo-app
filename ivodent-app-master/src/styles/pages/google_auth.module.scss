@@ -1,0 +1,56 @@
+@import "../variables";
+@import "../typography";
+@import "../responsive";
+
+.google_auth {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .google_auth__form {
+    max-width: 90vw;
+    min-width: 90vw;
+    flex: 1;
+    width: 100%;
+    display: grid;
+    row-gap: 16px;
+    text-align: center;
+
+    @include responsive(mobile-large) {
+      max-width: 80vw;
+      min-width: 80vw;
+    }
+
+    @include responsive(tablet) {
+      max-width: 60vw;
+      min-width: 60vw;
+    }
+
+    @include responsive(pc-small) {
+      max-width: 50vw;
+      min-width: 50vw;
+    }
+
+    @include responsive(pc) {
+      max-width: 40vw;
+      min-width: 40vw;
+    }
+
+    @include responsive(pc-large) {
+      max-width: 25vw;
+      min-width: 25vw;
+    }
+
+    .form__title {
+      color: $gray-900;
+      margin-bottom: 16px;
+
+      @include typography(30px, 600, 38px, 0, left);
+    }
+
+    button {
+      justify-content: center;
+    }
+  }
+}

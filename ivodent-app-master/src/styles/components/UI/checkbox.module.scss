@@ -1,0 +1,62 @@
+@import "../../variables";
+
+.checkbox {
+  height: 18px;
+  width: 18px;
+  border-radius: 4px;
+  background-color: $gray-200;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease,
+    box-shadow 0.3s ease;
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 0 0 4px $gray-200;
+  }
+
+  &:focus {
+    box-shadow: 0 0 0 4px $gray-300;
+  }
+
+  &__light {
+    background-color: white;
+    border: 1px solid $gray-300;
+
+    &:hover {
+      background-color: $gray-50;
+      box-shadow: 0 0 0 2px $gray-200;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $gray-200;
+    }
+  }
+
+  &__primary {
+    border: 1px solid $blue-500;
+    background-color: $blue-500;
+    color: white;
+
+    &:hover {
+      background-color: $blue-600;
+      box-shadow: 0 0 0 2px $blue-400;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $blue-400;
+    }
+  }
+
+  svg {
+    font-size: 60%;
+    color: white;
+
+    // path {
+    //   colo: white;
+    // }
+  }
+}

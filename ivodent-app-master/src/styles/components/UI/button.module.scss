@@ -1,0 +1,73 @@
+@import "../../variables";
+@import "../../typography";
+
+.btn {
+  padding: 10px 18px;
+  border-radius: $border-radius;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: $slate-900;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+  @include typography(16px, 500, 24px, 0em, center);
+
+  &__light {
+    background-color: white;
+    border: 1px solid $gray-300;
+
+    &:hover {
+      background-color: $gray-50;
+      box-shadow: 0 0 0 1px $gray-200;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $gray-200;
+    }
+  }
+
+  &__primary {
+    border: 1px solid $blue-500;
+    background-color: $blue-500;
+    color: white;
+
+    &:hover {
+      background-color: $blue-600;
+      box-shadow: 0 0 0 1px $blue-400;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $blue-400;
+    }
+  }
+
+  &__danger {
+    border: 1px solid $red-500;
+    background-color: $red-500;
+    color: white;
+
+    &:hover {
+      background-color: $red-600;
+      box-shadow: 0 0 0 1px $red-400;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $red-400;
+    }
+  }
+
+  svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .btn__spacing {
+    width: 10px;
+    display: inline-block;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}

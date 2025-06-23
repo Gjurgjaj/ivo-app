@@ -1,0 +1,158 @@
+@import "../variables";
+@import "../typography";
+@import "../responsive";
+
+.header {
+  display: flex;
+  align-items: center;
+  border: 1px solid $gray-200;
+  background-color: white;
+  padding: 10px 5vw;
+  height: 82px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+
+  @include responsive(pc-small) {
+    padding: 10px 10vw;
+  }
+
+  .header__logo {
+    margin-right: 18px;
+    display: block;
+  }
+
+  .header__nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    top: 82px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    width: 320px;
+    padding: 12px 24px;
+    border-right: 1px solid $gray-200;
+    transition: transform 0.3s ease;
+    transform: translateX(-100%);
+    z-index: 2;
+
+    &__visible {
+      transform: translateX(0);
+    }
+
+    @include responsive(pc-small) {
+      all: unset;
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+
+    .nav__list {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+
+      @include responsive(pc-small) {
+        flex-direction: row;
+      }
+
+      .nav__item {
+        display: flex;
+        align-items: center;
+        color: $slate-900;
+        padding: 8px 12px;
+        width: 100%;
+        border-radius: $border-radius;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+        margin-bottom: 8px;
+
+        @include typography(16px, 500, 24px, 0em, left);
+
+        @include responsive(pc-small) {
+          margin-bottom: 0;
+          margin-right: 4px;
+          width: unset;
+        }
+
+        &:last-child {
+          margin-right: 0;
+        }
+
+        &:hover {
+          background-color: $gray-100;
+        }
+
+        svg {
+          margin-right: 12px;
+          min-width: 24px;
+          min-height: 24px;
+
+          max-width: 24px;
+          max-height: 24px;
+
+          color: $gray-500;
+        }
+      }
+    }
+
+    .header__user {
+      display: flex;
+      align-items: center;
+      margin-top: auto;
+
+      @include responsive(pc-small) {
+        margin-top: unset;
+        margin-left: auto;
+      }
+
+      .user__logout {
+        all: unset;
+        margin-left: 16px;
+        cursor: pointer;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: $border-radius;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+          background-color: $gray-100;
+        }
+
+        svg {
+          color: $gray-500;
+        }
+      }
+    }
+  }
+
+  .header__menu_toggle {
+    all: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    padding: 8px;
+    transition: background-color 0.3s ease;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    @include responsive(pc-small) {
+      display: none;
+    }
+
+    &:hover {
+      background-color: $gray-100;
+    }
+
+    svg {
+      color: $gray-500;
+    }
+  }
+}

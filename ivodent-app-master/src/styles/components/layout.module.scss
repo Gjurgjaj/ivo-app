@@ -1,0 +1,19 @@
+@import "../responsive";
+
+.main {
+  padding: 10px 5vw;
+  margin-top: 82px;
+
+  @include responsive(pc-small) {
+    padding: 10px 10vw;
+  }
+
+  &__no_header {
+    padding: 0 !important;
+    margin: 0 !important;
+
+    @include responsive(pc-small) {
+      padding: 0 !important;
+    }
+  }
+}

@@ -1,0 +1,66 @@
+@import "../typography";
+
+.courses__title {
+  margin: 24px 0;
+
+  @include typography(30px, 500, 38px, 0em, left);
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 0;
+}
+
+.courses__list {
+  max-width: 300px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.courses__edit {
+  display: flex;
+  align-items: center;
+
+  button {
+    &:first-child {
+      margin-right: 5px;
+    }
+  }
+}
+
+.table {
+  tbody {
+    tr {
+      td {
+        &:first-child {
+          width: 30px;
+        }
+      }
+    }
+  }
+}
+
+.modal__content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .modal__header {
+    margin: 24px 0;
+
+    @include typography(30px, 500, 38px, 0em, left);
+  }
+
+  .modal__form {
+    display: grid;
+    row-gap: 16px;
+
+    button {
+      justify-content: center;
+      margin-left: auto;
+    }
+  }
+}

@@ -1,0 +1,63 @@
+@import "../../variables";
+@import "../../responsive";
+
+.modal__background {
+  background-color: $gray-800;
+  opacity: 0.6;
+}
+
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 90vw;
+  max-height: 90vh;
+  height: 100%;
+  width: 100%;
+  height: fit-content;
+  margin: auto;
+  transform: scale(1);
+  border-radius: $border-radius;
+  border: 1px solid $gray-300;
+  background-color: white;
+  padding: 20px 30px;
+  overflow: auto;
+
+  @include responsive(pc-small) {
+    max-width: 60vw;
+  }
+
+  @include responsive(pc-large) {
+    max-width: 50vw;
+  }
+
+  &__big {
+    @include responsive(pc-small) {
+      max-width: 70vw;
+    }
+
+    @include responsive(pc-large) {
+      max-width: 70vw;
+    }
+  }
+
+  &__hidden {
+    transform: scale(0.9);
+  }
+}
+
+.modal,
+.modal__background {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transition: visibility 0.3s ease, opacity 0.3s ease, transform 0.3s ease;
+  z-index: 2;
+
+  &__hidden {
+    visibility: hidden;
+    opacity: 0;
+  }
+}

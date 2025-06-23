@@ -1,0 +1,290 @@
+[
+  {
+    "subjects": [
+      {
+        "key": "teknika-e-protezave-ii-15-0",
+        "value": "Teknika e protezave II 15"
+      },
+      {
+        "key": "teknika-e-urave-dhe-kurorave-ii-14-0",
+        "value": "Teknika e urave dhe kurorave II 14"
+      },
+      {
+        "value": "Ortodonci  10",
+        "key": "ortodonci-10-0"
+      },
+      {
+        "key": "baza-teorike-te-teknikave-ne-protezimin-dentar-8-0",
+        "value": "Baza teorike të teknikave në protezimin dentar 8"
+      },
+      {
+        "key": "materiale-dentare-me-biopershtatshmeri-ii-5-0",
+        "value": "Materiale dentare me biopërshtatshmëri II 5"
+      },
+      {
+        "value": "Praktikë profesionale I 8",
+        "key": "praktike-profesionale-i-8-0"
+      }
+    ],
+    "course": "Teknikë e Lartë Dentare 2",
+    "cost": 2500,
+    "year": 2,
+    "id": "85Iz7gJTQUUztiuJZkC0"
+  },
+  {
+    "subjects": [
+      {
+        "value": "Teknika e protezave I 5",
+        "key": "teknika-e-protezave-i-5-0"
+      },
+      {
+        "key": "teknika-e-urave-dhe-kurorave-i-5-0",
+        "value": "Teknika e urave dhe kurorave I 5"
+      },
+      {
+        "value": "Materialet dentare ndihmëse 4",
+        "key": "materialet-dentare-ndihmese-4-0"
+      },
+      {
+        "key": "materialet-dentare-me-biopershtatshmeri-i-4-0",
+        "value": "Materialet dentare me biopërshtatshmëri I 4"
+      },
+      {
+        "value": "Anatomi 4",
+        "key": "anatomi-4-0"
+      },
+      {
+        "key": "histologji-dhe-biologji-e-qelizes-4-0",
+        "value": "Histologji dhe biologji e qelizës 4"
+      },
+      {
+        "key": "anatomi-dentare-6-0",
+        "value": "Anatomi dentare 6"
+      },
+      {
+        "key": "teknika-e-protezave-ii-6-0",
+        "value": "Teknika e protezave II 6"
+      },
+      {
+        "key": "gjuhe-angleze-4-0",
+        "value": "Gjuhë e huaj 4"
+      },
+      {
+        "key": "kujdesi-per-shendetin-dentar-4-0",
+        "value": "Kujdesi për shëndetin dentar 4"
+      },
+      {
+        "value": "Fiziologji klinike e gojës 4",
+        "key": "fiziologji-klinike-e-gojes-4-0"
+      },
+      {
+        "value": "Art modelimi 4",
+        "key": "art-modelimi-4-0"
+      },
+      {
+        "key": "teknika-e-urave-dhe-kurorave-ii-6-0",
+        "value": "Teknika e urave dhe kurorave II 6"
+      }
+    ],
+    "cost": 2500,
+    "course": "Teknikë Dentare 1",
+    "year": 1,
+    "id": "KnA4NdXd9Bsx5IEwvXRj"
+  },
+  {
+    "cost": 2500,
+    "course": "Teknikë e Lartë Dentare 3",
+    "year": 3,
+    "subjects": [
+      {
+        "value": "Teknika e protezave III 15",
+        "key": "teknika-e-protezave-iii-15-0"
+      },
+      {
+        "key": "teknika-e-urave-dhe-kurorave-iii-15-0",
+        "value": "Teknika e urave dhe kurorave III 15"
+      },
+      {
+        "value": "Materiale dentare me biopërshtatshmëri III 5",
+        "key": "materiale-dentare-me-biopershtatshmeri-iii-5-0"
+      },
+      {
+        "key": "metodika-shkencore-3-0",
+        "value": "Metodika shkencore 3"
+      },
+      {
+        "value": "*Deontologji sociale 3",
+        "key": "*deontologji-sociale-3-0"
+      },
+      {
+        "value": "*Menaxhim laboratori 3",
+        "key": "*menaxhim-laboratori-3-0"
+      },
+      {
+        "value": "Praktikë Profesionale II 13",
+        "key": "praktike-profesionale-ii-13-0"
+      },
+      {
+        "value": "Provim përfundimtar 6",
+        "key": "provim-perfundimtar-6-0"
+      }
+    ],
+    "id": "ecol9TBV3ARjnuWsqFYD"
+  },
+  {
+    "year": 2,
+    "cost": 2500,
+    "subjects": [
+      {
+        "key": "teknika-e-protezave-iii-9-0",
+        "value": "Teknika e protezave III 9"
+      },
+      {
+        "value": "Teknika e urave dhe kurorave III 6",
+        "key": "teknika-e-urave-dhe-kurorave-iii-6-0"
+      },
+      {
+        "value": "Teknika e urave dhe kurorave IV 6",
+        "key": "teknika-e-urave-dhe-kurorave-iv-6-0"
+      },
+      {
+        "key": "ortodonci-5-0",
+        "value": "Ortodonci 5"
+      },
+      {
+        "key": "aparate-qe-perdoren-ne-teknologjine-dentare-4-0",
+        "value": "Aparate që përdoren në teknologjinë dentare 4"
+      },
+      {
+        "value": "Teknika e protezave IV 9",
+        "key": "teknika-e-protezave-iv-9-0"
+      },
+      {
+        "value": "Materiale dentare me biopërshtatshmëri II 6",
+        "key": "materiale-dentare-me-biopershtatshmeri-ii-6-0"
+      },
+      {
+        "key": "praktike-profesionale-10-0",
+        "value": "Praktikë profesionale 10"
+      },
+      {
+        "key": "provimi-perfundimtar-5-0",
+        "value": "Provimi përfundimtar 5"
+      }
+    ],
+    "course": "Teknikë Dentare 2",
+    "id": "mBj9x2KOQJ3y41FDygZ1"
+  },
+  {
+    "subjects": [
+      {
+        "key": "teknika-e-protezave-i-10-0",
+        "value": "Teknika e protezave I 10"
+      },
+      {
+        "value": "Teknika e urave dhe kurorave I 14",
+        "key": "teknika-e-urave-dhe-kurorave-i-14-0"
+      },
+      {
+        "value": "Materialet dentare ndihmëse 3",
+        "key": "materialet-dentare-ndihmese-3-0"
+      },
+      {
+        "value": "Materialet dentare me biopërshtatshmëri I 3",
+        "key": "materialet-dentare-me-biopershtatshmeri-i-3-0"
+      },
+      {
+        "value": "Anatomi 4",
+        "key": "anatomi-4-0"
+      },
+      {
+        "value": "Histologji dhe biologji e qelizës 4",
+        "key": "histologji-dhe-biologji-e-qelizes-4-0"
+      },
+      {
+        "value": "Anatomi dentare 6",
+        "key": "anatomi-dentare-6-0"
+      },
+      {
+        "value": "Gjuhë e huaj  4",
+        "key": "gjuhe-angleze-4-0"
+      },
+      {
+        "key": "kujdesi-per-shendetin-dentar-4-0",
+        "value": "Kujdesi për shëndetin dentar 4"
+      },
+      {
+        "key": "fiziologji-klinike-e-lendes-4-0",
+        "value": "Fiziologji klinike e gojës 4"
+      },
+      {
+        "value": "Art modelimi 4",
+        "key": "art-modelimi-4-0"
+      }
+    ],
+    "cost": 2500,
+    "year": 1,
+    "course": "Teknikë e Lartë Dentare 1",
+    "id": "sWNrp3z3q3D6fsf9PsWW"
+  },
+  {
+    "year": 1,
+    "subjects": [
+      {
+        "key": "sistemet-cad-skaner-zhvillim-softueresh-mjete-digjitale-te-planifikimit-0",
+        "value": "Sistemet CAD - skaner, zhvillim softuerësh, mjete digjitale të planifikimit"
+      },
+      {
+        "key": "teknika-digjitale-te-kombinuara-cad-cam-per-protezimin-dentar-0",
+        "value": "Teknika digjitale të kombinuara CAD / CAM për protezimin dentar"
+      },
+      {
+        "value": "Anglishte teknike bazike",
+        "key": "anglishte-teknike-bazike-0"
+      },
+      {
+        "value": "Rrjedha digjitale e pregatitjes së kurorave dhe urave",
+        "key": "rrjedha-digjitale-e-pregatitjes-se-kurorave-dhe-urave-0"
+      },
+      {
+        "key": "materiale-te-perdorura-ne-teknikat-digjitale-dentare-0",
+        "value": "Materiale të përdorura  në teknikat digjitale dentare"
+      },
+      {
+        "value": "Implementimi i CAD / CAM nën aspektet organizative dhe të menaxhimit të biznesit",
+        "key": "implementimi-i-cad-cam-nen-aspektet-organizative-dhe-te-menaxhimit-te-biznesit-0"
+      },
+      {
+        "key": "teknika-digjitale-te-parashikimit-dhe-pergatitjes-se-implanteve-0",
+        "value": "Teknika digjitale të parashikimit dhe përgatitjes së implanteve"
+      },
+      {
+        "key": "komunikimi-teknik-dhe-akademik-0",
+        "value": "Komunikimi teknik dhe akademik"
+      },
+      {
+        "key": "rrjedha-digjitale-e-pegatitjes-se-protezes-totale-0",
+        "value": "Rrjedha digjitale e pëgatitjes së protezës totale"
+      },
+      {
+        "value": "Teknika digjitale të planifikimit dhe përgatitjes së aparateve ortodontikë",
+        "key": "teknika-digjitale-te-planifikimit-dhe-pergatitjes-se-aparateve-ortodontike-0"
+      },
+      {
+        "value": "Rrjedha digjitale e përgatitjes së protezave të skeletuara",
+        "key": "rrjedha-digjitale-e-pergatitjes-se-protezave-te-skeletuara-0"
+      },
+      {
+        "value": "Përpunimi estetik i protezave prej zirkoni dhe dilitiumsilikati ",
+        "key": "perpunimi-estetik-i-protezave-prej-zirkoni-dhe-dilitiumsilikati-0"
+      },
+      {
+        "value": "Provim përfundimtar formimi",
+        "key": "provim-perfundimtar-formimi-0"
+      }
+    ],
+    "course": "Teknika Digjitale Dentare",
+    "cost": 3500,
+    "id": "vlDAVQx7P2fvE9SprSPi"
+  }
+]

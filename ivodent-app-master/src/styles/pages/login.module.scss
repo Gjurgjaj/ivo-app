@@ -1,0 +1,148 @@
+@import "../variables";
+@import "../responsive";
+
+.login {
+  @include responsive(pc) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .login__wrapper {
+    display: grid;
+    grid-template-rows: 85px 1fr 85px;
+    padding: 20px;
+    row-gap: 20px;
+    min-height: 100vh;
+    height: 100%;
+
+    .login__card {
+      margin: auto;
+      max-width: 90vw;
+      min-width: 90vw;
+      flex: 1;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      @include responsive(mobile-large) {
+        max-width: 80vw;
+        min-width: 80vw;
+      }
+
+      @include responsive(tablet) {
+        max-width: 60vw;
+        min-width: 60vw;
+      }
+
+      @include responsive(pc) {
+        max-width: 25vw;
+        min-width: 25vw;
+      }
+
+      .card__title {
+        font-size: 3em;
+        color: $slate-900;
+      }
+
+      .card__description {
+        color: $slate-500;
+        margin: 10px 0 30px 0;
+      }
+
+      .card__form {
+        display: grid;
+        row-gap: 16px;
+        width: 100%;
+
+        .form__link {
+          margin-left: auto;
+          color: $blue-700;
+        }
+
+        button {
+          justify-content: center;
+        }
+      }
+    }
+
+    .login__copyright {
+      display: flex;
+      align-items: flex-end;
+      color: $slate-500;
+      min-height: 85px;
+
+      .heart {
+        background-color: #ef4444;
+        width: 0.7em;
+        height: 0.7em;
+        position: relative;
+        transform: rotate(45deg);
+        animation: animateHeart 1.2s infinite;
+        margin: 0 8px;
+        margin-bottom: 3px;
+
+        &::before,
+        &::after {
+          content: "";
+          width: 0.7em;
+          height: 0.7em;
+          background-color: #ef4444;
+          position: absolute;
+          border-radius: 50%;
+        }
+
+        &::before {
+          left: -0.5em;
+        }
+
+        &::after {
+          top: -0.5em;
+        }
+      }
+
+      @keyframes animateHeart {
+        0% {
+          transform: rotate(45deg) scale(0.8);
+        }
+        5% {
+          transform: rotate(45deg) scale(0.9);
+        }
+        10% {
+          transform: rotate(45deg) scale(0.8);
+        }
+        15% {
+          transform: rotate(45deg) scale(1);
+        }
+        50% {
+          transform: rotate(45deg) scale(0.8);
+        }
+        100% {
+          transform: rotate(45deg) scale(0.8);
+        }
+      }
+
+      a {
+        color: var(--blue-800);
+        font-weight: 600;
+        margin-left: 5px;
+      }
+    }
+  }
+
+  .login__image {
+    position: relative;
+    display: none;
+    overflow: hidden;
+
+    @include responsive(pc) {
+      display: block;
+    }
+
+    .image {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

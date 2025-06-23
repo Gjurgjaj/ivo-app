@@ -1,0 +1,171 @@
+@import "../variables";
+@import "../typography";
+@import "../responsive";
+
+.students__title {
+  margin: 24px 0;
+
+  @include typography(30px, 500, 38px, 0em, left);
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 0;
+}
+
+.table {
+  tbody {
+    tr {
+      td {
+        &:first-child {
+          width: 30px;
+        }
+      }
+    }
+  }
+
+  .students__edit {
+    display: flex;
+    align-items: center;
+
+    button {
+      &:first-child {
+        margin-right: 5px;
+      }
+    }
+  }
+}
+
+.grid__list {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr;
+
+  @include responsive(tablet) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.grid__colss {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr;
+
+  @include responsive(tablet) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.modal__content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  max-height: 90vh;
+
+  .modal__header {
+    margin: 24px 0;
+
+    @include typography(30px, 500, 38px, 0em, left);
+  }
+
+  .modal__form {
+    display: grid;
+    padding-bottom: 24px;
+    row-gap: 16px;
+
+    .form__courses {
+      display: flex;
+      flex-direction: column;
+
+      .courses__label {
+        margin-bottom: 8px;
+        color: $slate-900;
+        transition: color 0.3s ease;
+
+        @include typography(14px, 500, 20px, 0em, left);
+      }
+
+      .courses__list {
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 10px;
+        column-gap: 10px;
+
+        @include responsive(tablet) {
+          grid-template-columns: 1fr 1fr;
+        }
+
+        @include responsive(pc-small) {
+          grid-template-columns: 1fr 1fr 1fr;
+        }
+      }
+
+      .loading {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        width: 100%;
+      }
+    }
+
+    .courses__payments {
+      .courses__label {
+        margin-bottom: 8px;
+        color: $slate-900;
+        transition: color 0.3s ease;
+
+        @include typography(14px, 500, 20px, 0em, left);
+      }
+
+      .payments__list {
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 16px;
+        column-gap: 16px;
+      }
+    }
+
+    & > button {
+      justify-content: center;
+      margin-left: auto;
+    }
+
+    .course__btn {
+      display: grid;
+      grid-template-columns: 32px 0 1fr;
+      width: 100%;
+      height: 100%;
+    }
+
+    .form__submit {
+      width: fit-content;
+    }
+
+    .item__details {
+      display: flex;
+      flex-direction: column;
+
+      .item__name {
+        color: $gray-700;
+
+        @include typography(14px, 500, 20px, 0, left);
+      }
+
+      .item__subjects {
+        color: $gray-500;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 1; /* number of lines to show */
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+
+        @include typography(14px, 400, 20px, 0, left);
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+@import "../../variables";
+@import "../../typography";
+
+.tags__wrapper {
+  display: flex;
+  flex-direction: column;
+
+  &:focus-within {
+    .tags {
+      box-shadow: 0 0 0 2px $gray-200 !important;
+      border: 1px solid $gray-300 !important;
+    }
+  }
+
+  &__error {
+    .tags__label {
+      color: $red-500 !important;
+    }
+
+    .tags {
+      box-shadow: 0 0 0 1px $red-500 !important;
+      border: 1px solid $red-500 !important;
+    }
+  }
+
+  .tags__label {
+    margin-bottom: 8px;
+    color: $slate-900;
+    transition: color 0.3s ease;
+
+    @include typography(14px, 500, 20px, 0em, left);
+  }
+
+  .tags {
+    padding: 7px;
+    border: 1px solid $gray-300;
+    border-radius: $border-radius;
+    background-color: white;
+    color: $slate-900;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    cursor: text;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    @include typography(16px, 400, 24px, 0em, left);
+
+    &::placeholder {
+      color: #667085;
+    }
+
+    &:hover {
+      box-shadow: 0 0 0 1px $gray-200;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $gray-200;
+    }
+
+    .tags__list {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-right: 3px;
+
+      .list__item {
+        display: flex;
+        align-items: center;
+        border-radius: $border-radius;
+        padding: 5px 10px;
+        cursor: default;
+
+        border: 1px solid $gray-300;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+        &__active {
+          background-color: $gray-100;
+        }
+
+        .item__content {
+          cursor: pointer;
+
+          @include typography(14px, 500, 20px, 0em, left);
+        }
+
+        .item__action {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border-radius: 50%;
+          width: 14px;
+          height: 14px;
+          margin-left: 5px;
+          cursor: pointer;
+
+          svg {
+            color: $gray-400;
+          }
+        }
+      }
+    }
+
+    .tags__input {
+      flex-grow: 1;
+      padding: 5px 13px;
+      border: none;
+      outline: none;
+      font-size: 16px;
+      border-radius: $border-radius;
+    }
+  }
+
+  .tags__error {
+    color: $red-500;
+    margin-top: 6px;
+
+    @include typography(16px, 400, 24px, 0em, left);
+  }
+}

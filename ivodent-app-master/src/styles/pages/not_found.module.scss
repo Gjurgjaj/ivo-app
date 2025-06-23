@@ -1,0 +1,27 @@
+@import "../variables";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  max-width: 90vw;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  height: 100vh;
+
+  .container__title {
+    font-size: 3em;
+    color: $slate-900;
+  }
+
+  .container__description {
+    color: $slate-500;
+    margin: 0 0 30px 0;
+  }
+
+  button {
+    justify-content: center;
+  }
+}

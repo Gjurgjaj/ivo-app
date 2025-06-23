@@ -1,0 +1,7163 @@
+[
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Egi Mali",
+    "fatherName": "Adnand",
+    "uid": "WkmZSYMaGCMr0ZwedBoI9RyJCuC3",
+    "email": "egi.mali@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2021-10-08",
+            "price": 2250
+          }
+        ],
+        "endDate": "2022-08",
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "endDate": "2023-10",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-11-18",
+            "price": 1750
+          }
+        ],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "role": "student",
+    "id": "0DubR1w7X3VO8TsyKFzP"
+  },
+  {
+    "name": "Saimira Lipo",
+    "fatherName": "Xhemal",
+    "uid": "pbf0Xv6i5ZZKTVobk97SYvJho0r1",
+    "role": "student",
+    "email": "saimira.lipo@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 700,
+            "date": "2023-05-17"
+          },
+          {
+            "date": "2023-04-05",
+            "price": 1000
+          },
+          {
+            "date": "2023-01-11",
+            "price": 800
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "id": "0H2btrnuEpovKJfGZGjM"
+  },
+  {
+    "email": "florjan.bodini@ivodent.edu.al",
+    "fatherName": "Hasan",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "endDate": "2022-08",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "endDate": "",
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "uid": "NfkjqEcpxPS6MdeAHZT1vaS1n703",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "name": "Florjan Bodini",
+    "id": "0YOMUsUvNzM0l3mof8Qu"
+  },
+  {
+    "email": "albi.saraci@ivodent.edu.al",
+    "uid": "TIAKAM43vOV3k4xyO2rS3LyJoEu1",
+    "name": "Albi Saraçi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 500,
+            "date": "2022-11-04"
+          }
+        ]
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "fatherName": "Metulla",
+    "role": "student",
+    "id": "0ZPcLIkkkXBYHBGUI3w2"
+  },
+  {
+    "email": "desara.kalaj@ivodent.edu.al",
+    "uid": "Fooh7zYtBOODXMNsBV7zqOsfDMC2",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-29"
+          }
+        ],
+        "endDate": "",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-10-24",
+            "price": 2250
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10"
+      }
+    ],
+    "name": "Desara Kalaj",
+    "fatherName": "Agim",
+    "id": "1TN510USjc1x9dc7EpOn"
+  },
+  {
+    "uid": "8Q87dxShYcdqIANpkFneTx1td3D2",
+    "name": "Marta Saridag",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10"
+      }
+    ],
+    "role": "student",
+    "email": "marta.saridag@ivodent.edu.al",
+    "fatherName": "Shefqet",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "1pKhUFTFswrdRP3aEUPn"
+  },
+  {
+    "email": "ruke.dorti@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-12-02"
+          }
+        ],
+        "discount": 250,
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "endDate": ""
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1500,
+            "date": "2023-03-07"
+          },
+          {
+            "date": "2023-01-09",
+            "price": 840
+          },
+          {
+            "price": 278,
+            "date": "2022-11-30"
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0
+      }
+    ],
+    "uid": "RfMqBeMWBbZNErJiSfICKIqPy1m1",
+    "name": "Rukë Dorti",
+    "role": "student",
+    "fatherName": "Serjan",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "id": "2XKHO4roLff8iYh1mmMe"
+  },
+  {
+    "fatherName": "Bujar",
+    "role": "student",
+    "email": "albana.gjeli@ivodent.edu.al",
+    "name": "Albana Gjeli",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 1500,
+        "startDate": "2022-10",
+        "id": "vlDAVQx7P2fvE9SprSPi"
+      }
+    ],
+    "uid": "BjeqjsO9L6QgLolS2sqdgY0MKtW2",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "id": "2dn1p9kNEgQvQzrrGw04"
+  },
+  {
+    "uid": "kN3jZBSe32WLCGg4PrkIAwR9l0t1",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": []
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "startDate": "2025-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      },
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "startDate": "2024-10"
+      }
+    ],
+    "role": "student",
+    "email": "kleant.kapxhiu@ivodent.edu.al",
+    "fatherName": "",
+    "name": "Kleant Kapxhiu",
+    "id": "3HYeO1ULXF6sL2cPaTO7"
+  },
+  {
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Florim",
+    "name": "Gresa Mamaj",
+    "email": "gresa.mamaj@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "uid": "eZmAiaPvLSe57L9DptQ0Hbb2Krp2",
+    "id": "3zwmMTUkOXCewKbefeWC"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2021-11-02",
+            "price": 2250
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2022-10-19"
+          }
+        ],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 500
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Tom",
+    "name": "Anxhela Marku",
+    "email": "anxhela.marku@ivodent.edu.al",
+    "role": "student",
+    "uid": "kovEMaChN5g0y9otxrfNHUx1czC3",
+    "id": "49hidv3Uogwfw0MwFphZ"
+  },
+  {
+    "name": "Algert Kenga",
+    "fatherName": "Hamdi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "01mCfin3dsZKflOnetFPox0qGxG3",
+    "email": "algert.kenga@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-06-13"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "id": "4BxTe2lGqjAFH2EHSlMB"
+  },
+  {
+    "fatherName": "Haziz",
+    "uid": "yz6Nw9yPK0UxVAyKHAYOEBRyvx32",
+    "name": "Aneda Lusha",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-12-23",
+            "price": 2500
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "email": "aneda.lusha@ivodent.edu.al",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "4RWi7Pt4O7RWKGzugtyQ"
+  },
+  {
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-26"
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "price": 1800,
+            "date": "2022-09-28"
+          }
+        ],
+        "discount": 250
+      }
+    ],
+    "fatherName": "Agim",
+    "uid": "BEBok314tMS2Cbn0B51iVkiF37j1",
+    "name": "Erti Hito",
+    "email": "erti.hito@ivodent.edu.al",
+    "id": "4mW15jxTcgghb9Z2GKFN"
+  },
+  {
+    "uid": "BnwCeNarP0c4aNmlVLXSjECo7hj2",
+    "name": "Kristi Cane",
+    "fatherName": "Oresti",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "kristi.cane@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-27"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "role": "student",
+    "id": "508yb8gYqHTWBNP80NpA"
+  },
+  {
+    "fatherName": "Naim",
+    "email": "alesia.alicka@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 667,
+        "payments": [
+          {
+            "price": 1833,
+            "date": "2023-01-04"
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "name": "Alesia Aliçka",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "0iAHsAeYCgata3koh2g12U8aQqB2",
+    "id": "5jXF4E9o4u15HdpQSjUn"
+  },
+  {
+    "fatherName": "Ilir",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2022-05-20",
+            "price": 1250
+          },
+          {
+            "price": 500,
+            "date": "2022-05-10"
+          },
+          {
+            "date": "2022-02-07",
+            "price": 250
+          },
+          {
+            "date": "2021-12-20",
+            "price": 250
+          },
+          {
+            "price": 250,
+            "date": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-19"
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "name": "Jona Kruja",
+    "uid": "LeJ29vrg3BWv7unI16HzcOFFbbl2",
+    "role": "student",
+    "email": "jona.kruja@ivodent.edu.al",
+    "id": "6S7eXHBS1Xx27yA60JW6"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "discount": 250,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-08"
+          }
+        ],
+        "endDate": "2022-08"
+      },
+      {
+        "endDate": "2023-06",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-02"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10"
+      }
+    ],
+    "name": "Mariglena Nikolla",
+    "fatherName": "Levend",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "SPLhwQm4H1UI6EM8n5R661ooY6q1",
+    "email": "mariglena.nikolla@ivodent.edu.al",
+    "id": "6eDch3CchSUS367mm4mv"
+  },
+  {
+    "fatherName": "Maltin",
+    "uid": "4qgLOpwqSpV8DUBOM2gWO309OKw1",
+    "name": "Dajana Gjoka",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-12-21",
+            "price": 2500
+          }
+        ],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "startDate": "2024-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "role": "student",
+    "email": "dajana.gjoka@ivodent.edu.al",
+    "id": "7WjhwLATx8fPiEHnPfZs"
+  },
+  {
+    "uid": "OxTrQFjqYjNVhVHL6DiSiDHIdbk2",
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1500,
+            "date": "2023-03-09"
+          },
+          {
+            "price": 1000,
+            "date": "2022-12-20"
+          }
+        ],
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      }
+    ],
+    "name": "Sindi Margjini",
+    "fatherName": "Kujtim",
+    "email": "sindi.margjini@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "id": "7dgFeZzKu4OFjY69269N"
+  },
+  {
+    "email": "majlinda.kola@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2022-11-14"
+          }
+        ]
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "uid": "mclued7Y4sM9t31DYsocaqofxkp2",
+    "name": "Majlinda Kola",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Pal",
+    "id": "7k9HjVlYkFLi82nugKgA"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2022-12-09",
+            "price": 2250
+          }
+        ]
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "yrqq7gaaMOd2IEKptIdY1XVwq292",
+    "name": "Marko Çimo",
+    "fatherName": "Maksim",
+    "email": "marko.cimo@ivodent.edu.al",
+    "id": "86UfMSIcnqjA3XRJXxhz"
+  },
+  {
+    "fatherName": "Afrim",
+    "name": "Elga Daci",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "elga.daci@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "uid": "0IXpXjbjQiUnHpTb12PFsNKc2LM2",
+    "role": "student",
+    "id": "8RkrJvNi7Yqkyv62sPiL"
+  },
+  {
+    "fatherName": "Shyqyri",
+    "name": "Megi Lila",
+    "role": "student",
+    "uid": "RxT7yxQ9K2VGUR9Fjap5djMARbM2",
+    "email": "megi.lila@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-20"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "9MSyTLKMvCLolDq0CCIY"
+  },
+  {
+    "uid": "9WiyKVn7syRXBAa15xCWzivI8Gj2",
+    "fatherName": "Gazmond",
+    "name": "Klea Xhaholli",
+    "email": "klea.xhaholli@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2021-11-23",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-11-14",
+            "price": 2250
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10"
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "id": "9l97EWz57bl55KLHFFTp"
+  },
+  {
+    "fatherName": "Sami",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 0,
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [],
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "email": "dorant.ejupi@ivodent.edu.al",
+    "uid": "xiq0ahmDEHS4Ymtmm2JX3bib3WU2",
+    "name": "Dorant Ejupi",
+    "id": "A1gZlGny7mYCbUSl4ARW"
+  },
+  {
+    "name": "Artjola Toskaj",
+    "email": "artjola.toskaj@ivodent.edu.al",
+    "fatherName": "Kujtim",
+    "uid": "HO0IrJDpTTV30JmXVRlit5eEswB3",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "discount": 250,
+        "startDate": "2020-10",
+        "payments": [
+          {
+            "date": "2021-05-27",
+            "price": 2250
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2021-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 150,
+        "payments": [
+          {
+            "price": 2350,
+            "date": "2022-03-11"
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-03-11"
+          }
+        ],
+        "discount": 250,
+        "startDate": "2022-10",
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "id": "AAGQ8Fs3oPK7Kkb5LNJP"
+  },
+  {
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-05-04"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "fatherName": "Përparim",
+    "name": "Endrit Mehmeti",
+    "uid": "SVgHlj1kYkTG25JBdtgdJtvRGDS2",
+    "email": "endrit.mehmeti@ivodent.edu.al",
+    "id": "AT3qazNVbe72qw5dUfBH"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2020-10"
+      },
+      {
+        "startDate": "2021-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 110,
+        "payments": [
+          {
+            "date": "2022-04-13",
+            "price": 2390
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10"
+      }
+    ],
+    "email": "rafete.hoxha@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "niVAOdotKsaWyV27EaXC0iC4E7o2",
+    "role": "student",
+    "fatherName": "Afrim",
+    "name": "Rafete Hoxha",
+    "id": "AoCpRk89CTxw2k6yELPc"
+  },
+  {
+    "email": "ljum.agaj@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "price": 150,
+            "date": "2021-12-06"
+          },
+          {
+            "price": 1100,
+            "date": "2021-11-26"
+          },
+          {
+            "price": 1000,
+            "date": "2021-10-27"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "price": 200,
+            "date": "2022-10-25"
+          }
+        ],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      }
+    ],
+    "uid": "yhdrm6VQMNPquBBXqL52JoeosZu1",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "fatherName": "Dritan",
+    "name": "Ljum Agaj",
+    "id": "ArEabNoLRAJcuuNp0skX"
+  },
+  {
+    "uid": "nJNBdosTIabXs3HUh3T158yaPYZ2",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "date": "2022-12-27",
+            "price": 2500
+          }
+        ],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0
+      }
+    ],
+    "name": "Risela Çyri",
+    "email": "risela.cyri@ivodent.edu.al",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Selami",
+    "id": "AtEub6qWFLK6JIhEj8cN"
+  },
+  {
+    "email": "edlira.cekrezi@ivodent.edu.al",
+    "uid": "AH2WeBT0xDbxgq87Ma3emxM1vcN2",
+    "name": "Edlira Çekrezi",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-23"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2024-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "fatherName": "Astrit",
+    "id": "BEvZKnDjyKcMU67WprMt"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      }
+    ],
+    "email": "veton.tahiraj@ivodent.edu.al",
+    "name": "Veton Tahiraj",
+    "uid": "sMLh1wKxzFbtLrQ7NQOTfm76T8g1",
+    "fatherName": "Avdi",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "id": "BiE373IPQFvxnRQgPTU5"
+  },
+  {
+    "email": "gelth.kote@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Gelt'H Kote",
+    "uid": "HpGJPvXu1oRh5PMb5WWeZA0X5ZN2",
+    "fatherName": "Gilmond",
+    "role": "student",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2023-06-23"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "id": "Bl1mQ6J4WMhfpRKcVIxM"
+  },
+  {
+    "name": "Maugerta Xhemalaj",
+    "email": "maugerta.xhemalaj@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Agron",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 1300,
+            "date": "2022-01-25"
+          },
+          {
+            "price": 1200,
+            "date": "2021-10-28"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-01-16"
+          }
+        ]
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "uid": "op2VdXxiuWVxgvilFVCNZwg622K2",
+    "id": "CHDdEXPeR8GnGw7iBtBF"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "youni.karmid@ivodent.edu.al",
+    "name": "Youni Karmid",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2023-01-20",
+            "price": 1125
+          },
+          {
+            "date": "2022-12-01",
+            "price": 1125
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      }
+    ],
+    "fatherName": "Ahmad",
+    "role": "student",
+    "uid": "VEgcRGvBrOhdHoAUOxoHJeZrmmJ2",
+    "id": "CSXEGocljTt2uHfZv9Dm"
+  },
+  {
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-12-28",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2024-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "marsida.karabudak@ivodent.edu.al",
+    "fatherName": "Arben",
+    "name": "Marsida Karabudak",
+    "role": "student",
+    "uid": "ZYTqqwUOYwYd2qLQ4571JzIIDL43",
+    "id": "DaDIZ7BIafpOwFrY7TrG"
+  },
+  {
+    "email": "brisida.gjiza@ivodent.edu.al",
+    "name": "Brisida Gjiza",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-12-27",
+            "price": 2500
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "fatherName": "Ban",
+    "uid": "8LTkUlXpoaXnLNvKchVzysjOdJA2",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "id": "DoIdt7jwYdk5E0KhSQ6G"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "albin.isufi@ivodent.edu.al",
+    "name": "Albin Isufi",
+    "uid": "RjliGhlBUqUegvhsFxkAZnQggeO2",
+    "role": "student",
+    "fatherName": "Gjevdet",
+    "id": "E1aMtSlCOEatouYG2k5H"
+  },
+  {
+    "uid": "wHPjDpMYMyUltIAH49s5IzrS76O2",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Asllan",
+    "name": "Denisa Mullahi",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 200,
+            "date": "2022-05-31"
+          },
+          {
+            "date": "2022-05-05",
+            "price": 200
+          },
+          {
+            "date": "2022-04-06",
+            "price": 150
+          },
+          {
+            "date": "2022-03-03",
+            "price": 150
+          },
+          {
+            "date": "2022-02-03",
+            "price": 150
+          },
+          {
+            "date": "2022-01-11",
+            "price": 151
+          },
+          {
+            "price": 150,
+            "date": "2021-12-10"
+          },
+          {
+            "price": 150,
+            "date": "2021-12-02"
+          }
+        ],
+        "discount": 1199,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-11-14",
+            "price": 2250
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 250
+      }
+    ],
+    "email": "denisa.mullahi@ivodent.edu.al",
+    "id": "EeqhP7JKPCy383ZIuJRl"
+  },
+  {
+    "email": "ervis.malo@ivodent.edu.al",
+    "uid": "N3xm9Vo0ykYrxwBTevbXRj6dejJ3",
+    "fatherName": "Ismet",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-29"
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "name": "Ervis Malo",
+    "id": "En36pO4c5N01J8dmOEgX"
+  },
+  {
+    "email": "angjelos.paja@ivodent.edu.al",
+    "fatherName": "Ilir",
+    "uid": "cuHCYUkaWqOOYxLkrypOxHXvoeJ2",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-04-19"
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "name": "Angjelos Paja",
+    "id": "EnzpERFpkWPMpbYp7zLR"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "antonela.muca@ivodent.edu.al",
+    "name": "Antonela Muça",
+    "fatherName": "Agron",
+    "payments": [
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "date": "2023-06-13",
+            "price": 550
+          },
+          {
+            "date": "2023-05-08",
+            "price": 250
+          },
+          {
+            "date": "2023-04-05",
+            "price": 450
+          },
+          {
+            "price": 250,
+            "date": "2023-03-02"
+          },
+          {
+            "price": 250,
+            "date": "2023-02-06"
+          },
+          {
+            "date": "2023-01-09",
+            "price": 250
+          },
+          {
+            "date": "2022-12-01",
+            "price": 250
+          },
+          {
+            "price": 250,
+            "date": "2022-11-04"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": null
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      }
+    ],
+    "uid": "yh8qh6WuRIN4uOaPq5Y0dxFqD8p2",
+    "role": "student",
+    "id": "FA540cKVggizQ0gIaMxx"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-28"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "discount": 500,
+        "payments": [
+          {
+            "date": "2022-10-10",
+            "price": 2000
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "uid": "aRznDWBL2kRtuImDwgOKzRPyRRu2",
+    "name": "Klaudio Marku",
+    "fatherName": "Paulin",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "klaudio.marku@ivodent.edu.al",
+    "id": "FCJLSGRiv9LkuL8IvnYR"
+  },
+  {
+    "name": "Xheni Zito",
+    "fatherName": "Selajdin",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2021-10-28"
+          }
+        ],
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2022-10-26",
+            "price": 2000
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "xheni.zito@ivodent.edu.al",
+    "uid": "Y6doGDISHsRYlSAnOOsNlirlj0K3",
+    "id": "FDzJ5TrgtsnxwMBp7Xv9"
+  },
+  {
+    "name": "Hasan Soylu",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "hasan.soylu@ivodent.edu.al",
+    "fatherName": "",
+    "uid": "3DLaOUsJ4PbySTgsAawbVqSTDN42",
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0
+      }
+    ],
+    "id": "FG8icFjZVygMErh4OwyH"
+  },
+  {
+    "uid": "SPZZTuVRGVZ3l3UrGOzglyqTMJ12",
+    "email": "fjoralba.duka@ivodent.edu.al",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Fjoralba Duka",
+    "fatherName": "Besnik",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-01"
+          }
+        ],
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "id": "GPWq41S1nf5JCIRnW032"
+  },
+  {
+    "uid": "upS8JmRygqZn2kmq1iSsIZEv42S2",
+    "role": "teacher",
+    "name": "Antonina Mema",
+    "courses": [
+      "KnA4NdXd9Bsx5IEwvXRj",
+      "mBj9x2KOQJ3y41FDygZ1",
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "antonina.mema@ivodent.edu.al",
+    "id": "Ge4Rd8PIClcAx5SPQQDh"
+  },
+  {
+    "uid": "WrfB4R58aFf8NKIMPCK89J6UrkI2",
+    "name": "Fatjon Gjatoja",
+    "role": "student",
+    "fatherName": "Sadedin",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "fatjon.gjatoja@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2020-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2022-10-19",
+            "price": 2000
+          }
+        ],
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "startDate": "2022-10"
+      }
+    ],
+    "id": "Gume9UZ5PUWYsmef4G1n"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "brilanda.poka@ivodent.edu.al",
+    "name": "Brilanda Poka",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-01-11"
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "discount": 0
+      }
+    ],
+    "role": "student",
+    "uid": "pKVC2BYRxEVRl8ExtlwHwLllkj42",
+    "fatherName": "Ismail",
+    "id": "HUtOnziMes7T7UvwFf6A"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 500,
+            "date": "2022-11-21"
+          },
+          {
+            "date": "2022-10-28",
+            "price": 2000
+          }
+        ]
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "fatherName": "Rushit",
+    "name": "Almira Heqimi",
+    "uid": "Yo5vMgN3UsaUHXyHPg7SrXbNuSz1",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "almira.heqimi@ivodent.edu.al",
+    "role": "student",
+    "id": "Hfkh3hiINZYucaStfk4H"
+  },
+  {
+    "role": "student",
+    "fatherName": "haxhi",
+    "email": "valentin.lica@ivodent.edu.al",
+    "courses": [],
+    "uid": "nvwWGorA6shXV1uQObrri9Z9tQH2",
+    "payments": [],
+    "name": "Valentin lica",
+    "id": "Hi00ILHOeu8XSZzykFTG"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "name": "Griseld Ndardhari",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2021-12-16",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1800,
+            "date": "2023-03-10"
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10"
+      }
+    ],
+    "email": "griseld.ndardhari@ivodent.edu.al",
+    "uid": "Ht38TpAV69NaB2yTuntzeeNEbkc2",
+    "fatherName": "Arben",
+    "id": "HzwUT7tbc6gzF8aP1KPE"
+  },
+  {
+    "email": "eurolt.selami@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Dashnor",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-12"
+          }
+        ]
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "name": "Eurolt Selami",
+    "uid": "EPJzi79NPEToyQbDStGFptxngZI2",
+    "role": "student",
+    "id": "Io0zOEKjmr7IKzAWEoLC"
+  },
+  {
+    "email": "bruno.llanaj@ivodent.edu.al",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "",
+    "name": "Bruno Llanaj",
+    "uid": "kR4IcIeRqdXG3zHOZ08kUFFQ2Dq2",
+    "payments": [
+      {
+        "startDate": "2023-10",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2023-04-25"
+          }
+        ],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "id": "J1PTwKCRMey95MTbDEx3"
+  },
+  {
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2023-01-19",
+            "price": 800
+          }
+        ]
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "fatherName": "Mariglen",
+    "email": "angjelo.demiraj@ivodent.edu.al",
+    "name": "Angjelo Demiraj",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "0Xvdlfg41qMRHahvrqb4DCPewF23",
+    "id": "JNRGSA6b3HkXhn7mQLIk"
+  },
+  {
+    "name": "Aldo Hoxhaj",
+    "email": "aldo.hoxhaj@ivodent.edu.al",
+    "role": "student",
+    "fatherName": "Altin",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2023-01-24",
+            "price": 2500
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "uid": "9zuGPe7kk7fjhULDtv77SISXeYo1",
+    "id": "JTYUXSQzBiY2eumkcE8F"
+  },
+  {
+    "name": "Qamile Muça",
+    "role": "student",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2020-10",
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "startDate": "2022-10",
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "uid": "UvwpDLzIKKUWg6HFBYR5DMtHO1H3",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Eduart",
+    "email": "qamile.muca@ivodent.edu.al",
+    "id": "JXo4mDsloIZdoaUPmosc"
+  },
+  {
+    "role": "student",
+    "fatherName": "Kujtim",
+    "payments": [
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-09-23",
+            "price": 1000
+          },
+          {
+            "date": "2021-11-24",
+            "price": 1250
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "date": "2023-04-26",
+            "price": 1500
+          }
+        ],
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10"
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "JxS6AqHwL5TJrJ2pYiF7lcYYlhh1",
+    "name": "Rendiljana Kula",
+    "email": "rendiljana.kula@ivodent.edu.al",
+    "id": "K6qEL2FBSv0rUDI9a8h5"
+  },
+  {
+    "name": "Sidorela Hysa",
+    "role": "teacher",
+    "courses": [
+      "KnA4NdXd9Bsx5IEwvXRj",
+      "mBj9x2KOQJ3y41FDygZ1",
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "sidorela.hysa@ivodent.edu.al",
+    "uid": "dApSHPhVt4Tute3izLVRS24PHwp2",
+    "id": "KBTTaKGHR0LQ7cGeNtGq"
+  },
+  {
+    "fatherName": "",
+    "uid": "2Wk2xScJ9YM2G3rNKEY7Ra0H00o1",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": []
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "shore.marjola@ivodent.edu.al",
+    "name": "Marjola Shore",
+    "id": "KIS4TZXl9Yhx986nXN7E"
+  },
+  {
+    "name": "Alban Lika",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2022-12-16",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "uid": "KtBV3XlblBNUWLCrxOp4K86wU0u1",
+    "role": "student",
+    "email": "alban.lika@ivodent.edu.al",
+    "fatherName": "Agron",
+    "id": "KSP5H94OevQGe3ADRRI6"
+  },
+  {
+    "uid": "XORXpWkcBmSF63dF247CgTzN2XP2",
+    "name": "Glorja Suçi",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Artur",
+    "payments": [
+      {
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "email": "glorja.suci@ivodent.edu.al",
+    "id": "KcS4ZeYqcw2oQTERdASN"
+  },
+  {
+    "uid": "qXI4nkvPDscDZLsgKPI9HhPaTfg1",
+    "name": "Donald Totaj",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-11-30",
+            "price": 2500
+          }
+        ]
+      }
+    ],
+    "email": "donald.totaj@ivodent.edu.al",
+    "role": "student",
+    "fatherName": "Arben",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "id": "KpNyNNvFGHOgSrJrYArf"
+  },
+  {
+    "name": "Anastas Dine",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "uid": "WjZUqlCDEPOuJB72yMd9d8FhhGG3",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2021-10-28"
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "payments": [
+          {
+            "date": "2022-10-25",
+            "price": 2000
+          }
+        ],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "email": "anastas.dine@ivodent.edu.al",
+    "fatherName": "Përparim",
+    "id": "LSNn7cLi6BIdVrwjyOXc"
+  },
+  {
+    "fatherName": "Vehbi",
+    "role": "student",
+    "uid": "Ft8eOjFz0PYsuhiIXJm6pkCxCH12",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "neritan.xhabija@ivodent.edu.al",
+    "name": "Neritan Xhabija",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2023-03-29",
+            "price": 1500
+          }
+        ]
+      },
+      {
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "payments": []
+      }
+    ],
+    "id": "M2CEouLlToLxZWgcYY5Z"
+  },
+  {
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "klejdi.dervishi@ivodent.edu.al",
+    "name": "Klejdi Dervishi",
+    "uid": "vt3CfsZdHmeWWNRyKyQBwA80pfq2",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2023-05-08",
+            "price": 2500
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "fatherName": "Zabit",
+    "id": "MCvE3REq0lZdEEF3IPP3"
+  },
+  {
+    "uid": "f7vXaI8P6BPdUPHJNJ9Vc0ak74y2",
+    "name": "Emir Rushiti",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2024-10",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "email": "emir.rushiti@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Shpëtim",
+    "id": "MMu3B3t09DxuEqI5p4HY"
+  },
+  {
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "uid": "0gLmrbyKRueUXXUXxeWZoPgQ17W2",
+    "fatherName": "Mendor",
+    "email": "duro.elva@ivodent.edu.al",
+    "name": "Elva Duro",
+    "role": "student",
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": []
+      }
+    ],
+    "id": "N1s7cft8NLIy9hV7BtGy"
+  },
+  {
+    "fatherName": "Agron",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "Fk5w9VSBuaXHHAqpcSFWaPDcbr52",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 2079,
+            "date": "2022-05-23"
+          },
+          {
+            "price": 400,
+            "date": "2021-12-14"
+          }
+        ],
+        "discount": 21
+      },
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2023-05-11"
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "email": "irisa.shalli@ivodent.edu.al",
+    "name": "Irisa Shalli",
+    "role": "student",
+    "id": "N9GRg8G0zqK0COclcMdy"
+  },
+  {
+    "role": "student",
+    "fatherName": "Genc",
+    "name": "Trina Mejzini",
+    "payments": [
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-12-15",
+            "price": 2250
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2024-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "v3IICXlQyUY89w5w3zRqOPq0gsl2",
+    "email": "trina.mejzini@ivodent.edu.al",
+    "id": "NKkbE8ykTGAW6oaCvsPq"
+  },
+  {
+    "name": "Erjon Hida",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "",
+    "uid": "all9NYHQqNYZMy23OCwuxKynmV52",
+    "role": "student",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2024-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2025-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "email": "erjon.hida@ivodent.edu.al",
+    "id": "NrnjTWeZjiZuWuXI1X5F"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Harallambi Permeti",
+    "fatherName": "Kristaq",
+    "role": "student",
+    "email": "harallambi.permeti@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 250,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-10-05"
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "uid": "l0zMPf6i6XPL4IfyxcUlvhMoY2R2",
+    "id": "OBYzChJS3FVW5X3FncW5"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Debora Vela",
+    "uid": "MuEpTvbxe1czjmAz3PLC1XMGxvD2",
+    "role": "student",
+    "email": "debora.vela@ivodent.edu.al",
+    "fatherName": "Alem",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-10-31"
+          }
+        ],
+        "discount": 250,
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      }
+    ],
+    "id": "OJWfMerHXp8zrTT3KXH5"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      }
+    ],
+    "uid": "8cZKQZw69LTkrcBjhZYZNcYTpp52",
+    "email": "ernidal.haxhi@ivodent.edu.al",
+    "name": "Ernidal Haxhi",
+    "fatherName": "Qenan",
+    "role": "student",
+    "id": "ORW8vrq8yjpWdpI2NC5v"
+  },
+  {
+    "payments": [
+      {
+        "discount": 1000,
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 500,
+            "date": "2022-05-11"
+          },
+          {
+            "date": "2021-10-20",
+            "price": 1000
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "date": "2023-03-20",
+            "price": 500
+          },
+          {
+            "price": 1000,
+            "date": "2022-11-14"
+          }
+        ],
+        "discount": 1000,
+        "startDate": "2022-10"
+      }
+    ],
+    "email": "irida.prethi@ivodent.edu.al",
+    "name": "Irida Prethi",
+    "uid": "ZB0mOVSVvCWST89DCsUmVtWg8On1",
+    "fatherName": "Gjuri",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "id": "Ol0SRN6zaX4vMkVlYu3J"
+  },
+  {
+    "fatherName": "Xhevit",
+    "name": "Nadire Kuçi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-01-09"
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "role": "student",
+    "uid": "uol1t8EpSPhuFdDD9yj46ANenN13",
+    "email": "nadire.kuci@ivodent.edu.al",
+    "id": "OmbeDE5HRDqXuAcaN7pY"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "zhaklin.tahiri@ivodent.edu.al",
+    "name": "Zhaklin Tahiri",
+    "uid": "D4GKjUYZoWc1Ud3oCKy6sCAdBFi1",
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-11-04",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "fatherName": "Gentian",
+    "id": "Ow5JMaM0OL9MK6KfsOVE"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "klajdi.xhafaj@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2021-10",
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-21"
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [],
+        "discount": 0,
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "role": "student",
+    "uid": "HRoQjxvURuVVfIKhbuE6ZLPrxdx1",
+    "fatherName": "Bardhyl",
+    "name": "Klajdi Xhafaj",
+    "id": "P8JoPyMI3z7D5HBmCcmy"
+  },
+  {
+    "email": "gisel.gorani@ivodent.edu.al",
+    "fatherName": "Ismet",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "te2aigFVTecs0gdKhJ9pFqzxsl93",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 1500,
+            "date": "2023-03-17"
+          },
+          {
+            "date": "2022-12-22",
+            "price": 1000
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "startDate": "2024-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "name": "Gisel Gorani",
+    "role": "student",
+    "id": "PDKjtvhdY66WvesAbFFp"
+  },
+  {
+    "email": "entela.miftari@ivodent.edu.al",
+    "name": "Entela Miftari",
+    "role": "student",
+    "fatherName": "Mustafë",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "startDate": "2022-10",
+        "payments": [],
+        "discount": 1500
+      }
+    ],
+    "uid": "Uw0PD2mHLHh7FJIZIdHDvTgcB8C3",
+    "id": "PS6BMjXsR98AXCi2WRcs"
+  },
+  {
+    "email": "mema.antonina@ivodent.edu.al",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 1500,
+        "startDate": "2022-10",
+        "payments": []
+      }
+    ],
+    "name": "Antonina Mema",
+    "fatherName": "Bujar",
+    "uid": "5zGO1RFFePhvCCimR7d2emZKk4v1",
+    "role": "student",
+    "id": "PXxpstOw3vzrOsm3v5zR"
+  },
+  {
+    "name": "Valentin Lica",
+    "payments": [],
+    "email": "valentin.lica@ivodent.edu.al",
+    "role": "admin",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj"],
+    "uid": "tjo8tInhlZMZtIwSAYqRmj3RQRu1",
+    "id": "PizJ5Cd0K2wbTdl12va1"
+  },
+  {
+    "name": "Eneda Shimaj",
+    "role": "student",
+    "uid": "FIDaHQPIoaSOVjMPiOMXaO2zmne2",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2023-01-19"
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "email": "eneda.shimaj@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Artur",
+    "id": "QEu0agInheP4ivOQdzSi"
+  },
+  {
+    "email": "betina.hyseni@ivodent.edu.al",
+    "courses": [
+      "KnA4NdXd9Bsx5IEwvXRj",
+      "mBj9x2KOQJ3y41FDygZ1",
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "8jraOK0vMNeZq32vqp6MwRzFPXm1",
+    "role": "teacher",
+    "name": "Betina Hyseni",
+    "id": "Qj9Luo22jx6cyIh8Btub"
+  },
+  {
+    "name": "Elvira Leka",
+    "uid": "3PFlu60Gsof7bfVcdci7rsekk7E3",
+    "email": "elvira.leka@ivodent.edu.al",
+    "fatherName": "Abidin",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-09-16"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "Rl1aWaBG2qxZTcEMV3jn"
+  },
+  {
+    "fatherName": "Dritan",
+    "payments": [
+      {
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-12-02"
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 250,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-18"
+          }
+        ],
+        "startDate": "2022-10"
+      }
+    ],
+    "uid": "PVqlsuTrHid0md2nCXBiW5Vj1qo2",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "rozalinda.hysa@ivodent.edu.al",
+    "name": "Rozalinda Hysa",
+    "role": "student",
+    "id": "Ru9GNZnO2ceEtnwZKmtr"
+  },
+  {
+    "email": "malo.henerieda@ivodent.edu.al",
+    "role": "student",
+    "uid": "l5wKc5AQ2thJxmcmYcaf9ndM2km2",
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10"
+      }
+    ],
+    "name": "Henerieda Malo",
+    "fatherName": "Nevrus",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "id": "SWrpZQSeUq87CAcyNvd9"
+  },
+  {
+    "uid": "BKAUnPPAonXLZxrcPWf2bcsibml2",
+    "name": "Gjylfizare Kurti",
+    "email": "gjylfizare.kurti@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Hanor",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "endDate": "2022-08",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-12-29"
+          }
+        ]
+      },
+      {
+        "discount": 250,
+        "startDate": "2022-10",
+        "endDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "id": "TDztGOrlowJQaX4G0q6a"
+  },
+  {
+    "role": "student",
+    "fatherName": "Agim",
+    "email": "arbana.dikaj@ivodent.edu.al",
+    "name": "Arbana Dikaj",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2022-06-20",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-01-30"
+          }
+        ]
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "uid": "Mm59lUEcknPFL21g1bgv3QoRIdA2",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "ToycVkcy5fp9cDGfzUaw"
+  },
+  {
+    "uid": "gsf1cXFLHEP4busiBHKJU8nqLnh1",
+    "fatherName": "Petrit",
+    "name": "Flogerta Kiçi",
+    "email": "flogerta.kici@ivodent.edu.al",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2023-10-01",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "id": "TwR219DTkF4Uyr1qeb60"
+  },
+  {
+    "role": "student",
+    "fatherName": "Isuf",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "payments": []
+      }
+    ],
+    "uid": "AuCjFNrZcwgLqyCVuwH1hnmUyft2",
+    "email": "elios.cuka@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Elios Çuka",
+    "id": "U3GWDxAgQ4099y132X8s"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "lica.jeta@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 1,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "fatherName": "Haxhi",
+    "role": "student",
+    "uid": "V2JmisvmZwR57a0AeKDeuKOwONt2",
+    "name": "Jeta Lica",
+    "id": "U6glsbBRDc9UOqwgTBf3"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "wWtkzNqMymaLkVILOW5RVlrR8Up1",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2023-03-21",
+            "price": 2500
+          }
+        ],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "email": "ismail.visha@ivodent.edu.al",
+    "role": "student",
+    "name": "Ismail Visha",
+    "fatherName": "Luftim",
+    "id": "UCBXMN32NQYzgp4wI6Hk"
+  },
+  {
+    "fatherName": "Sulo",
+    "name": "Juliana Pajo",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "juliana.pajo@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2020-10"
+      },
+      {
+        "discount": 250,
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-05-19"
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "uid": "pBCFPU7KopURULDafOUgH4MZP1v1",
+    "id": "UNny343kfa19bmF6uqzK"
+  },
+  {
+    "payments": [
+      {
+        "discount": 1110,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 740,
+            "date": "2023-06-06"
+          },
+          {
+            "price": 650,
+            "date": "2022-12-23"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      }
+    ],
+    "email": "klejdi.sulke@ivodent.edu.al",
+    "uid": "KhOe9Lsa0ePmGOnzK10ldtRduDJ3",
+    "name": "Klejdi Sulke",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Shkëlqim",
+    "id": "UbSzx8cK9zdb93BFbOgR"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2022-12-23",
+            "price": 2500
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "email": "rei.isufaj@ivodent.edu.al",
+    "name": "Rei Isufaj",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "6ZoC1NLCqfNOz1qBLSaCsEbm9bh2",
+    "fatherName": "Besnik",
+    "id": "V3JNSiOHzEyaikrBkBtD"
+  },
+  {
+    "name": "Arelda Gjoka",
+    "fatherName": "Preng",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2023-04-12",
+            "price": 2500
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2024-10"
+      }
+    ],
+    "uid": "gB8qebmrWAg4DsvxH2LLbhh5A7J3",
+    "email": "arelda.gjoka@ivodent.edu.al",
+    "id": "Vh0BBAb0RVDI8Bq7yvTx"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2021-10-01",
+            "price": 2250
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 250
+      },
+      {
+        "startDate": "2022-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-10-24",
+            "price": 2250
+          }
+        ]
+      }
+    ],
+    "fatherName": "Sabah",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Lubna Temim",
+    "email": "lubna.temim@ivodent.edu.al",
+    "uid": "bDPlzoRYWFOvIegolD5Gc8u4fl63",
+    "role": "student",
+    "id": "Vl7a6D4JCdAQ0apeqe7c"
+  },
+  {
+    "uid": "cadlYCvrOeYeC9HDAkOP52LrtJT2",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "name": "Gloria Groshi",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Engjëll",
+    "email": "gloria.groshi@ivodent.edu.al",
+    "id": "VtP8seQ3p1Rb4uSgnCnm"
+  },
+  {
+    "fatherName": "Shpëtim",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Amarildo Sela",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "payments": [
+          {
+            "price": 800,
+            "date": "2022-01-19"
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10"
+      }
+    ],
+    "role": "student",
+    "uid": "DYvwwLFLUFbJN12P8FRkaGpIp3X2",
+    "email": "amarildo.sela@ivodent.edu.al",
+    "id": "W0JaRLtafkXRCHrkWLQ4"
+  },
+  {
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-09"
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "name": "Xhoana Eskiu",
+    "fatherName": "Artan",
+    "uid": "7GBHwlDZBSSJV8q4CGUI7daz5Ss2",
+    "email": "xhoana.eskiu@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "id": "WVwRON0UiHrO2lyotSwX"
+  },
+  {
+    "uid": "GlNarVg1mKehTAw92jgBSZihuKq2",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "name": "Arijanit Isufi",
+    "fatherName": "Gjevdet",
+    "role": "student",
+    "email": "arijanit.isufi@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 1500,
+        "startDate": "2022-10",
+        "payments": [],
+        "id": "vlDAVQx7P2fvE9SprSPi"
+      }
+    ],
+    "id": "WZBTdSVsS1dhNGumNRJ6"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2020-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2021-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-04-08",
+            "price": 2250
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": []
+      }
+    ],
+    "email": "erilda.cenaj@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "uid": "jB3USRKnp4Ztj8eDEblHyYTH1gC3",
+    "fatherName": "Bashkim",
+    "name": "Erilda Cenaj",
+    "id": "XizsmelXkLmF4WsRT70C"
+  },
+  {
+    "name": "Dren Haxhiu",
+    "uid": "RKM6vvcLE1c524DTixQ4mZNdVns1",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "dren.haxhiu@ivodent.edu.al",
+    "role": "student",
+    "fatherName": "Jakup ",
+    "payments": [
+      {
+        "startDate": "2020-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 0,
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [],
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "id": "XoonVz942fTdSqtuyGEn"
+  },
+  {
+    "payments": [
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "startDate": "2024-10"
+      },
+      {
+        "startDate": "2025-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "fatherName": "",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Yusuf Kiziler",
+    "email": "yusuf.kiziler@ivodent.edu.al",
+    "uid": "16kfgyGf51emDjZJHk0ko4yXHgI2",
+    "role": "student",
+    "id": "XrscqTrUBZUCZNwjXTU4"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "name": "Elida Basha",
+    "email": "elida.basha@ivodent.edu.al",
+    "fatherName": "Ded",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-05"
+          }
+        ],
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10"
+      }
+    ],
+    "uid": "LTVL3N120vVUG7MhYFtfYLYqSWt2",
+    "id": "Xw3JXuhyhM3evF6D1Au6"
+  },
+  {
+    "name": "Drin Hyseni",
+    "fatherName": "Sadri",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2020-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-20"
+          }
+        ],
+        "discount": 250,
+        "id": "94vQoRQH6C0Br7ZhRPF2"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "jyz3Rhh3urXNAV8ADfREWhw634g2",
+    "role": "student",
+    "email": "drin.hyseni@ivodent.edu.al",
+    "id": "YcBUnZmInZPI0Hvzeas4"
+  },
+  {
+    "uid": "HDYO7sJeJAUYnwEC6MIeAIfFSR73",
+    "role": "teacher",
+    "name": "Marjola Shore",
+    "email": "marjola.shore@ivodent.edu.al",
+    "courses": [
+      "KnA4NdXd9Bsx5IEwvXRj",
+      "mBj9x2KOQJ3y41FDygZ1",
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "YlHjVE4aYwicFyVsqBXQ"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2022-12-13",
+            "price": 2500
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Etleva Disha",
+    "uid": "iuhlfMta1XWx3fddmvJJV9cwqs12",
+    "email": "etleva.disha@ivodent.edu.al",
+    "fatherName": "Afrim",
+    "id": "YsJcwJRT2CDVBDfJT4fj"
+  },
+  {
+    "name": "Fatjon Ahmeti",
+    "uid": "C5dn3ltgw2RaateKrSMMlZhv2xS2",
+    "fatherName": "Xhelal",
+    "email": "fatjon.ahmeti@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-07-20",
+            "price": 500
+          },
+          {
+            "price": 400,
+            "date": "2022-06-15"
+          },
+          {
+            "price": 600,
+            "date": "2022-05-16"
+          },
+          {
+            "price": 500,
+            "date": "2022-04-12"
+          },
+          {
+            "price": 250,
+            "date": "2021-12-03"
+          }
+        ],
+        "startDate": "2021-10",
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2023-06-01",
+            "price": 210
+          },
+          {
+            "price": 740,
+            "date": "2023-05-19"
+          },
+          {
+            "price": 350,
+            "date": "2023-05-09"
+          },
+          {
+            "price": 200,
+            "date": "2023-04-26"
+          },
+          {
+            "price": 400,
+            "date": "2023-04-18"
+          },
+          {
+            "date": "2023-02-08",
+            "price": 350
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "id": "ZGHnD3Gko4qMOLWB42A9"
+  },
+  {
+    "uid": "kh5N9YUOs3Mh5JJgYR1KHND8emR2",
+    "role": "student",
+    "email": "antigona.sinjari@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 1200,
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 1300,
+            "date": "2021-11-25"
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-06-20"
+          }
+        ],
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "name": "Antigona Sinjari",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Luan",
+    "id": "ZSORQpFOjy4D3trFsKez"
+  },
+  {
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Klajdi Doka",
+    "fatherName": "Besnik",
+    "payments": [
+      {
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      },
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-28"
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "email": "klajdi.doka@ivodent.edu.al",
+    "uid": "4UiP6WxaZeToBUyzyw2ZCuvU81B2",
+    "id": "ZUGn0ZnLfsI7255nYXit"
+  },
+  {
+    "uid": "4vXC51iTeQaXdPRXDTYF9kEPx9m2",
+    "name": "Irfan Rushiti",
+    "email": "irfan.rushiti@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2020-10"
+      },
+      {
+        "startDate": "2021-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "startDate": "2021-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "startDate": "2022-10"
+      }
+    ],
+    "fatherName": "Shpëtim",
+    "role": "student",
+    "id": "ZavQekRy2oIXQnTuV9Mz"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "trejsi.haska@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "fatherName": "Petrit",
+    "role": "student",
+    "uid": "fXOWqIb5sSTwgLZaQSt7dMRGfgg2",
+    "name": "Trejsi Haska",
+    "id": "ZpI1cCVUxioUgxYJyUgb"
+  },
+  {
+    "email": "desiana.sina@ivodent.edu.al",
+    "fatherName": "Dashamir",
+    "role": "student",
+    "name": "Desiana Sina",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-11-24",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "uid": "YHNsdHkVpROZ8N26JGN9DrIQ9r63",
+    "id": "ZuwP6g9t8ZY0DUKTMkDz"
+  },
+  {
+    "fatherName": "Ramadan",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2023-05-15"
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "role": "student",
+    "uid": "N76GSsQBKlU4ClZpjXCJZ0xqWXs2",
+    "email": "eliona.gashi@ivodent.edu.al",
+    "name": "Eliona Gashi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "a2th3jdbAcck7xoFOLW7"
+  },
+  {
+    "uid": "PeE8t1KrquTW7HCKTUIaDWa2S9V2",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2020-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-11-01"
+          }
+        ],
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "startDate": "2021-10",
+        "discount": 250
+      },
+      {
+        "discount": 250,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-10-17",
+            "price": 2250
+          }
+        ],
+        "id": "HMDM0yu5QRzMmI0vrqHN"
+      }
+    ],
+    "fatherName": "Gani",
+    "email": "shkurte.rashiti@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "name": "Shkurte Rashiti",
+    "id": "aIC0WHAbG7QCWfa1CIF0"
+  },
+  {
+    "fatherName": "Adnan",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "q0VT90dklOgG01tbPJZ1AXDDd512",
+    "role": "student",
+    "email": "gisela.spahiu@ivodent.edu.al",
+    "name": "Gisela Spahiu",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": null,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-30"
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "id": "aJ9JwBteaNZkPWXZra8a"
+  },
+  {
+    "fatherName": "Albert",
+    "name": "Fjona Laçi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "uid": "SxKgN7KokLd8dVA0qJ5xf25qAIg1",
+    "email": "fjona.laci@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 900,
+            "date": "2022-04-19"
+          },
+          {
+            "price": 1000,
+            "date": "2022-02-08"
+          },
+          {
+            "date": "2021-12-14",
+            "price": 600
+          }
+        ],
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": null
+      },
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 1700,
+            "date": "2023-04-07"
+          },
+          {
+            "price": 800,
+            "date": "2023-01-24"
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10"
+      }
+    ],
+    "id": "aVPnOX03M7oSy1OzJ4ii"
+  },
+  {
+    "uid": "RqtaJoVxWtgLeggfT7zvbOjnwOK2",
+    "fatherName": "Arton",
+    "name": "Bleona Rashiti",
+    "email": "bleona.rashiti@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-12-12",
+            "price": 50
+          },
+          {
+            "price": 2200,
+            "date": "2022-10-31"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "id": "aXxn6GsjC42cKhf5WWim"
+  },
+  {
+    "role": "student",
+    "fatherName": "Hamdi",
+    "email": "refet.lita@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "date": "2023-05-24",
+            "price": 1750
+          },
+          {
+            "date": "2023-01-11",
+            "price": 500
+          }
+        ],
+        "discount": 250,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "payments": []
+      }
+    ],
+    "name": "Refet Lita",
+    "uid": "IkeWF5LyL8WJV2GilNQCRFqaRaE3",
+    "id": "aqPobf233Y6IdMhR9R2o"
+  },
+  {
+    "fatherName": "Sotir",
+    "name": "Henri Kllapi",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2023-04-11",
+            "price": 600
+          },
+          {
+            "price": 600,
+            "date": "2023-04-11"
+          },
+          {
+            "price": 600,
+            "date": "2023-03-02"
+          },
+          {
+            "price": 400,
+            "date": "2022-11-16"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "henri.kllapi@ivodent.edu.al",
+    "uid": "fnnuXc2QQLMwfexTGlAUs3UdJXj1",
+    "id": "bFu3ET720d1G3uJxHgp1"
+  },
+  {
+    "uid": "01mIbS4BL9RAOyHmRd0AGQvoYgO2",
+    "role": "student",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0,
+        "payments": [
+          {
+            "date": "2023-03-23",
+            "price": 1000
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Ervin",
+    "email": "morena.bylyku@ivodent.edu.al",
+    "name": "Morena Bylyku",
+    "id": "bZmuzOApMGFIRcyL6SXz"
+  },
+  {
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "andeta.rata@ivodent.edu.al",
+    "uid": "P1KefqMcc7Mzj5ZSNMjeMBeoY2s2",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-11-16",
+            "price": 2500
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      }
+    ],
+    "name": "Andeta Rata",
+    "fatherName": "Ajet",
+    "id": "c5XzSepGAL0OIm29TxZX"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "discount": 250,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-11-17"
+          }
+        ]
+      },
+      {
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-04"
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "uid": "co0ilaocMHMOhdWJfA2S1zLsrCc2",
+    "fatherName": "Lulzim",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Klevisa Kadriu",
+    "email": "klevisa.kadriu@ivodent.edu.al",
+    "id": "cCpoGOnUS5oBWiKM3r6I"
+  },
+  {
+    "role": "student",
+    "email": "nevila.gallushi@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "name": "Nevila Gallushi",
+    "fatherName": "Milazim",
+    "uid": "kL7veHujqNfTq72qQ9Aw3zVPjdJ2",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "cqFcoBr5lkSeekeox0c7"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [],
+        "discount": 0,
+        "id": "vlDAVQx7P2fvE9SprSPi"
+      }
+    ],
+    "fatherName": "Gjergji",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "name": "Franci Kutrolli",
+    "role": "student",
+    "email": "kutrolli.franci@ivodent.edu.al",
+    "uid": "KYMcfFRotvgejtoH8uI5BnSGl7N2",
+    "id": "d8VyMgM5C45Lz9PIHEIp"
+  },
+  {
+    "uid": "Bm8F9wqBbCQeQ4OmllnYnKaONIU2",
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2022-12-23",
+            "price": 1500
+          },
+          {
+            "date": "2022-11-21",
+            "price": 1000
+          }
+        ]
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "email": "dea.musaraj@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Dea Musaraj",
+    "fatherName": "Flamur",
+    "id": "d9CJV9mdI7g5N6vwFEcq"
+  },
+  {
+    "email": "egli.krasta@ivodent.edu.al",
+    "uid": "Nz329f5ae9XwkGPQ54ei1CDwmGp1",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "startDate": "2024-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0
+      },
+      {
+        "startDate": "2025-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": []
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "name": "Egli Krasta",
+    "fatherName": "",
+    "id": "dP0P8m2ovJKe2PnvDAOn"
+  },
+  {
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1500,
+            "date": "2022-11-30"
+          },
+          {
+            "date": "2022-10-14",
+            "price": 1000
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "email": "feruze.habilaj@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Feruze Habilaj",
+    "uid": "sK68RH5Y5TV5jYtaOPSwcTmCaMv2",
+    "role": "student",
+    "fatherName": "Ferdinant",
+    "id": "dk0Z26KkAkAtU7Gn5pw0"
+  },
+  {
+    "email": "elsard.bashaj@ivodent.edu.al",
+    "role": "student",
+    "name": "Elsard Bashaj",
+    "uid": "nz8UGrK1RGTFKdnnUWxA3CMkpcm1",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": [],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "fatherName": "Sami",
+    "id": "dseBtMLOO82wkKglGzN9"
+  },
+  {
+    "role": "student",
+    "name": "Anisa Pepkolaj",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "anisa.pepkolaj@ivodent.edu.al",
+    "fatherName": "Agron",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-12-28",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "uid": "Tw2uaXhrtXcove34AI9K7qR9dbV2",
+    "id": "dxjJhGROxOEANghMSNrX"
+  },
+  {
+    "name": "Andrea Manja",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "andrea.manja@ivodent.edu.al",
+    "fatherName": "",
+    "payments": [
+      {
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [],
+        "discount": 2500,
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-11-02"
+          }
+        ],
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10"
+      }
+    ],
+    "role": "student",
+    "uid": "xEpumQbe1CXhz7XoZSneKGdvVHZ2",
+    "id": "eBS8zrWWleNdTrLQKOW3"
+  },
+  {
+    "uid": "GTtgL4sbq9TRV7xmrfh9JjdIOtx2",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-09-09"
+          }
+        ],
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "endDate": "2022-08",
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 250,
+        "startDate": "2022-10",
+        "endDate": "2023-10",
+        "payments": [
+          {
+            "date": "2022-10-14",
+            "price": 2250
+          }
+        ],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "email": "sindea.beqollari@ivodent.edu.al",
+    "name": "Sindea Beqollari",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Kastriot",
+    "id": "eFcJ2PC1xEcUAnGrEQz3"
+  },
+  {
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2021-12-16",
+            "price": 2250
+          }
+        ],
+        "endDate": "2022-08",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "discount": 250
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "date": "2022-12-27",
+            "price": 2250
+          }
+        ],
+        "endDate": "2022-07",
+        "startDate": "2022-10",
+        "discount": 250
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "role": "student",
+    "uid": "eDpECtNqYUZJ5SUZah1EzXGmYbk1",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Bilal",
+    "name": "Floriant Çaushaj",
+    "email": "floriant.caushaj@ivodent.edu.al",
+    "id": "eXIona1wgniqt7jOMYyx"
+  },
+  {
+    "uid": "GeZjwt0tnOhppUPAjAODGaCymYh2",
+    "name": "Jolanda Pana",
+    "email": "jolanda.pana@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10",
+        "discount": 0
+      }
+    ],
+    "fatherName": "",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "env19ybhf5zmsWsntNbv"
+  },
+  {
+    "email": "xheksila.gega@ivodent.edu.al",
+    "name": "Xheksila Gega",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 0
+      }
+    ],
+    "role": "student",
+    "uid": "G38xgcssbQWh6DfBjv0cIhTJ25a2",
+    "fatherName": "Mariglen",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "f1sOnx4BIcMi862ZUtXc"
+  },
+  {
+    "name": "Leandro Mitro",
+    "fatherName": "Leonard",
+    "payments": [
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2022-09-15",
+            "price": 2250
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "startDate": "2022-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "leandro.mitro@ivodent.edu.al",
+    "uid": "BoOVIjnBh9PC2J91Ws7swuXglt63",
+    "role": "student",
+    "id": "fAeYF2h7HiQGPEJlcNqp"
+  },
+  {
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "uid": "LUm0LCgCWuVBAVt2nPVfj0dyY0h1",
+    "fatherName": "Lulzim",
+    "email": "vegim.dema@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "payments": [],
+        "discount": 1000,
+        "startDate": "2022-10"
+      }
+    ],
+    "role": "student",
+    "name": "Vegim Dema",
+    "id": "fFMleGzFyqm0MFFhcHUV"
+  },
+  {
+    "fatherName": "Arjan",
+    "email": "dasara.xhangolli@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-29"
+          }
+        ],
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "date": "2022-11-16",
+            "price": 2250
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "name": "Dasara Xhangolli",
+    "uid": "c6kt1j49DHW8u9LLBkXOiqJJeB22",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "id": "fiIeRkGTFqnrR23243Tu"
+  },
+  {
+    "name": "Sara Prethi",
+    "fatherName": "Gjuri",
+    "role": "student",
+    "email": "sara.prethi@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 1000,
+        "payments": [
+          {
+            "price": 500,
+            "date": "2022-05-11"
+          },
+          {
+            "price": 1000,
+            "date": "2022-01-10"
+          }
+        ],
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 1000,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "date": "2023-03-20",
+            "price": 500
+          },
+          {
+            "date": "2022-11-14",
+            "price": 1000
+          }
+        ]
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "gmlFsO0KW3a7YrffG9eQlu7migb2",
+    "id": "gCeomRRUwzACPXEHaxMJ"
+  },
+  {
+    "fatherName": "Afrim",
+    "name": "Klejdi Haliti",
+    "payments": [
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2021-10",
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "payments": [
+          {
+            "date": "2022-05-30",
+            "price": 450
+          },
+          {
+            "price": 1000,
+            "date": "2022-05-24"
+          },
+          {
+            "date": "2022-01-21",
+            "price": 800
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "discount": 0,
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "payments": [],
+        "startDate": "2022-10"
+      }
+    ],
+    "email": "klejdi.haliti@ivodent.edu.al",
+    "uid": "gxE9tHUV3PTkpW2AGfuPZuAJ6bb2",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "gyFnBuX6FSHTYb5h2NzO"
+  },
+  {
+    "uid": "WJ0oPekfR5SbKuNRuOeTsJrYQe73",
+    "fatherName": "Ylber",
+    "email": "silva.dema@ivodent.edu.al",
+    "name": "Silva Dema",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [],
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "startDate": "2021-10",
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "payments": [],
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "startDate": "2022-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "h09jettpBaVHh0nE5aEo"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Shkelqim",
+    "name": "Fize Shermadhi",
+    "email": "fize.shermadhi@ivodent.edu.al",
+    "role": "student",
+    "uid": "LafKGqkTLSSOqIcFqM2AdH9h2MW2",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2022-12-21",
+            "price": 1500
+          },
+          {
+            "price": 1000,
+            "date": "2022-10-13"
+          }
+        ],
+        "startDate": "2022-10",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "id": "hl4uEnfgWE99uVDXiQu2"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "Q7QUt7zLeBh8i9lzt2wTRGqfqP63",
+    "email": "kadri.hyra@ivodent.edu.al",
+    "fatherName": "Ferhat",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-11-05"
+          }
+        ],
+        "startDate": "2021-10",
+        "endDate": "2022-08",
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "date": "2022-12-12",
+            "price": 2250
+          }
+        ],
+        "endDate": "2023-10"
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      }
+    ],
+    "name": "Kadri Hyra",
+    "role": "student",
+    "id": "hn81R0jslag3X654QOas"
+  },
+  {
+    "fatherName": "Servet",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2023-01-26"
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "name": "Leonard Çela",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "1dHn6q4aF6MNvsqTjn56pxtSd0F2",
+    "role": "student",
+    "email": "leonard.cela@ivodent.edu.al",
+    "id": "hpyvAO3fYHrWolY7V9UT"
+  },
+  {
+    "uid": "wKtibMfzXPMNw6jZxX2oQ02wUHm2",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "fatherName": "Fadil",
+    "email": "kristina.beqiraj@ivodent.edu.al",
+    "name": "Kristina Beqiraj",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 1110,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-12-22",
+            "price": 1390
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0
+      }
+    ],
+    "id": "hsdyVTWRJNawEdBv9du3"
+  },
+  {
+    "email": "klevisa.gjoka@ivodent.edu.al",
+    "name": "Klevisa Gjoka",
+    "uid": "sGHhz3mNeGeJR6rRFoC9HOL5TWj1",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-11-30",
+            "price": 2250
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Pëllumb",
+    "id": "iVCOraUIviHbP1GzpS6y"
+  },
+  {
+    "email": "engjellushe.merhori@ivodent.edu.al",
+    "name": "Engjellushe Merhori",
+    "fatherName": "Irfan",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "YqmpzGprgOOunAuUxGkhopOEFvS2",
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-11-02"
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "id": "ifFGO2u3R6DIgIFJGTOs"
+  },
+  {
+    "fatherName": "Ilirjan",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2021-10",
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": []
+      },
+      {
+        "startDate": "2020-10",
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": []
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-22"
+          }
+        ],
+        "discount": 250,
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "startDate": "2021-10"
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "payments": []
+      }
+    ],
+    "email": "adolf.xhelo@ivodent.edu.al",
+    "uid": "0zai3vJ51iRup5gxiVrUHAf0aEO2",
+    "name": "Adolf Xhelo",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "j0Kj6U2RIHQ1LObEAoMT"
+  },
+  {
+    "fatherName": "Valtin",
+    "role": "student",
+    "name": "Arsenilda Xhezairi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "discount": 250,
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-11"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-10-26",
+            "price": 2250
+          }
+        ]
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      }
+    ],
+    "email": "arsenilda.xhezairi@ivodent.edu.al",
+    "uid": "0CTVyXb5TBZeIFoWPu9jInbPnK82",
+    "id": "j2qY0KSsmGd4Srfca8dG"
+  },
+  {
+    "fatherName": "Idajet",
+    "uid": "vMkctlqReYfo9VW2HIfZrFBTdKP2",
+    "name": "Kevin Hurdha",
+    "email": "kevin.hurdha@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "payments": [
+      {
+        "discount": 250,
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2021-10-15",
+            "price": 2250
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "discount": 250,
+        "startDate": "2022-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [
+          {
+            "date": "2022-10-17",
+            "price": 2250
+          }
+        ]
+      }
+    ],
+    "id": "jAFQBYRVUOovVO2z3d6M"
+  },
+  {
+    "name": "Rei Lame",
+    "email": "rei.lame@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "price": 1800,
+            "date": "2022-09-01"
+          },
+          {
+            "date": "2021-12-17",
+            "price": 700
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1250,
+            "date": "2023-05-22"
+          }
+        ],
+        "discount": 0
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      }
+    ],
+    "fatherName": "Artur",
+    "role": "student",
+    "uid": "GSq5YH21wtc5GeHBicKyNLekJ6I3",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "jKDOQTg0Wuh98ZQAVhBd"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "uid": "kYTsp2XUgAYzVND9bzafHdLVSEw1",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-10-17"
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "fatherName": "Gjergj",
+    "email": "ornela.marku@ivodent.edu.al",
+    "name": "Ornela Marku",
+    "role": "student",
+    "id": "jL06buZbIvePI50VZCI1"
+  },
+  {
+    "courses": [],
+    "role": "admin",
+    "name": "Jeta Lica",
+    "email": "jeta.lica@ivodent.edu.al",
+    "payments": [],
+    "uid": "I2JTYECIklW8w8eCHpj9DbptJKC3",
+    "id": "jcWFybS71aIewV7ouYnq"
+  },
+  {
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "uid": "TGbAZ3DnwPTdLRbNym2XpEiBNhA2",
+    "fatherName": "Agim",
+    "email": "florenc.vladi@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2021-11-12",
+            "price": 900
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 0
+      },
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": []
+      }
+    ],
+    "name": "Florenc Vladi",
+    "id": "kZBgV3RHqVk1jJBGoKFm"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [],
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      }
+    ],
+    "uid": "lccJ55O6fGPIfFjWdudZL7xZ9jo2",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "albert.koci@ivodent.edu.al",
+    "name": "Albert Koçi",
+    "fatherName": "Riza",
+    "id": "l1INUg2W9UTEIuzjPIS2"
+  },
+  {
+    "id": "lBtmVaaV36r8hI3tkdCS"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-12"
+          }
+        ],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "role": "student",
+    "uid": "rJqELbUCreW2DClBwZ7UVlzhTLP2",
+    "name": "Arvin Çilaj",
+    "fatherName": "Kujtim",
+    "email": "arvin.cilaj@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "lJRdiKfLs6uy34OaRnM3"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "valerio.mitro@ivodent.edu.al",
+    "name": "Valerio Mitro",
+    "fatherName": "Kristaq",
+    "role": "student",
+    "uid": "cXPTqImsubPz9xxLtD4ZYaZOyij1",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2020-10",
+        "discount": 0
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2021-10",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2022-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-09-15"
+          }
+        ],
+        "discount": 250,
+        "startDate": "2021-10",
+        "id": "94vQoRQH6C0Br7ZhRPF2"
+      },
+      {
+        "discount": 0,
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "startDate": "2022-10",
+        "payments": []
+      }
+    ],
+    "id": "lsJfy78Qkc8lb1arflRY"
+  },
+  {
+    "fatherName": "Ilir",
+    "email": "maria.hima@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-11-14"
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "uid": "CHC1RCYCmVVrKfacQG9Vul7z8b23",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Maria Hima",
+    "id": "m3vJwUklZL6yawkFVdR7"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "payments": []
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "fatherName": "Agostin",
+    "name": "Kristiana Miri",
+    "email": "kristiana.miri@ivodent.edu.al",
+    "uid": "E6uXqdt2YmSjF6TKr7TGmdgSKRb2",
+    "id": "m4jbMmCC9RJoDhCrvrrA"
+  },
+  {
+    "fatherName": "Niko",
+    "email": "megi.stefa@ivodent.edu.al",
+    "name": "Megi Stefa",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "uid": "kzOBS2d72jWJQbYF2ZUCyrTiW5C3",
+    "role": "student",
+    "id": "mRFTcMTR40UtcWz673EL"
+  },
+  {
+    "name": "Olti Pajaziti",
+    "uid": "TD5K7RBlF1aYQOLILWMnXITpAPB3",
+    "fatherName": "Ilir",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "olti.pajaziti@ivodent.edu.al",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-10-18"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "discount": 250
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-12-12"
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "discount": -1,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "id": "mTmNZqulZrdDkeVp8PtF"
+  },
+  {
+    "fatherName": "Mihal",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "name": "Kamela Bixheku",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2021-10-19",
+            "price": 2250
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "endDate": "2022-09",
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [
+          {
+            "date": "2022-11-07",
+            "price": 2250
+          }
+        ],
+        "endDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 250,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "email": "kamela.bixheku@ivodent.edu.al",
+    "uid": "oW1caqE4g4Mr75Y5indh2tM8nJb2",
+    "id": "mUVGJQWG35Meaa7bclf1"
+  },
+  {
+    "payments": [],
+    "email": "altin.mele@ivodent.edu.al",
+    "courses": [
+      "KnA4NdXd9Bsx5IEwvXRj",
+      "mBj9x2KOQJ3y41FDygZ1",
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "94vQoRQH6C0Br7ZhRPF2",
+      "ecol9TBV3ARjnuWsqFYD",
+      "HMDM0yu5QRzMmI0vrqHN"
+    ],
+    "uid": "c5LH44YsKBVTEPcTQ0pQxNwmEcw1",
+    "fatherName": "Ilo",
+    "name": "Altin Mele",
+    "role": "admin",
+    "id": "mW8uEJPaYSWUhmqO441S"
+  },
+  {
+    "email": "spart.qatipi@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2021-10-01",
+            "price": 2250
+          }
+        ],
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10"
+      },
+      {
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 1800,
+            "date": "2022-10-18"
+          }
+        ]
+      }
+    ],
+    "name": "Spart Qatipi",
+    "uid": "UxtnasLOJ0ZpadsnfVThummTm5C3",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Polluks",
+    "id": "mfnUEGzDIyqnQaejUwdZ"
+  },
+  {
+    "email": "mikela.lekaj@ivodent.edu.al",
+    "name": "Mikela Lekaj",
+    "role": "student",
+    "uid": "CjiKxwZsunZWdmVsA8Di5RXmnHE3",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "endDate": "2022-08",
+        "payments": [
+          {
+            "date": "2021-12-14",
+            "price": 2250
+          }
+        ],
+        "startDate": "2021-10",
+        "discount": 250,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2022-10",
+        "endDate": "2023-10",
+        "payments": [
+          {
+            "date": "2022-12-09",
+            "price": 2250
+          }
+        ]
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "fatherName": "Sokol",
+    "id": "nNQtQToz51sDqV7lVwVt"
+  },
+  {
+    "role": "student",
+    "fatherName": "Husein",
+    "name": "Adnan Nikç",
+    "uid": "NtRfGxz9b9NdVy1LENvmmrpgCX02",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "payments": [
+      {
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 1500
+      }
+    ],
+    "email": "adnan.nikc@ivodent.edu.al",
+    "id": "oRV5wsQMHl5LI4V6QZhX"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2021-10-07",
+            "price": 2250
+          }
+        ]
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-10-14",
+            "price": 2250
+          }
+        ],
+        "discount": 250
+      }
+    ],
+    "uid": "nLJDYy5O5aYUeIQrbn1byHttbgq1",
+    "email": "ersi.prendi@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "fatherName": "Agron",
+    "name": "Ersi Prendi",
+    "role": "student",
+    "id": "oqlNWll4KGuZUyAZtF3F"
+  },
+  {
+    "uid": "fAOkaV5EqabcPajtxzdkRiDRUMl1",
+    "name": "Brixhilda Paloka",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Gjergj",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-12-15",
+            "price": 2250
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": []
+      }
+    ],
+    "email": "brixhilda.paloka@ivodent.edu.al",
+    "id": "ovDSyoWvDGgcNNEfaVLE"
+  },
+  {
+    "fatherName": "Leonard",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "name": "Joan Prifti",
+    "email": "joan.prifti@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2020-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0
+      },
+      {
+        "startDate": "2022-10",
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      },
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2021-11-10"
+          }
+        ],
+        "id": "94vQoRQH6C0Br7ZhRPF2",
+        "discount": 250,
+        "startDate": "2021-10"
+      },
+      {
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": []
+      }
+    ],
+    "uid": "IbTpINsDQZOhITPIFa6dUwq1PUi1",
+    "id": "p6P1n0yx4tErLjKqirjK"
+  },
+  {
+    "role": "student",
+    "fatherName": "Fatmir",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "name": "Natyra Hashani",
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 1500,
+        "payments": [],
+        "startDate": "2022-10"
+      }
+    ],
+    "uid": "q95ociregwSHTEcPMWjKSCtvHx32",
+    "email": "natyra.hashani@ivodent.edu.al",
+    "id": "pIndTJNFGHOOYdnUyNNz"
+  },
+  {
+    "fatherName": "Rrahman",
+    "email": "luke.rrahmani@ivodent.edu.al",
+    "role": "student",
+    "name": "Luke Rrahmani",
+    "uid": "0gYQEH74aDfDWc96q2XqNuJeyb62",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "pg2GADlA0UQw76X8IIHy"
+  },
+  {
+    "role": "student",
+    "uid": "Wm3zAQAhDMOBjFrLNooZ3WYQMRI2",
+    "payments": [
+      {
+        "payments": [
+          {
+            "date": "2022-02-18",
+            "price": 2000
+          }
+        ],
+        "discount": 500,
+        "startDate": "2021-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2000,
+            "date": "2022-11-30"
+          }
+        ],
+        "discount": 500,
+        "startDate": "2022-10"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10"
+      }
+    ],
+    "email": "xhevdet.ramadani@ivodent.edu.al",
+    "name": "Xhevdet Ramadani",
+    "fatherName": "Ramadan",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "ptuyJvjAWAGHzcNtKy3F"
+  },
+  {
+    "fatherName": "",
+    "payments": [
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": []
+      },
+      {
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2024-10",
+        "payments": []
+      }
+    ],
+    "uid": "MAyxj1wzsqYgZg7HBEnFa5NbG1A3",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "leonida.sokoli@ivodent.edu.al",
+    "role": "student",
+    "name": "Leonida Sokoli ",
+    "id": "qYGkvBg8RlpFYW5zURqT"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-12-16",
+            "price": 2330
+          }
+        ],
+        "discount": 170
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0
+      }
+    ],
+    "email": "eligers.elezi@ivodent.edu.al",
+    "name": "Eligers Elezi",
+    "fatherName": "Shaban",
+    "uid": "2rwQQqbWfkSAcYek14qjzMAItXp2",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "role": "student",
+    "id": "qnMg8ZwzD4qSGjnEVvEO"
+  },
+  {
+    "uid": "MJo8pq5UbWM1X1pmGWb1ZKn9tP33",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Dilaver",
+    "email": "zana.cana@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-16"
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 250
+      },
+      {
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "name": "Zana Cana",
+    "id": "rFxmBnWbCjTowJ6ve2lf"
+  },
+  {
+    "role": "student",
+    "fatherName": "Ramadan",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "mikela.rapo@ivodent.edu.al",
+    "uid": "cbcsyV4SWbPuelmssPxDymL9ZvJ2",
+    "name": "Mikela Rapo",
+    "payments": [
+      {
+        "discount": 1225,
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "date": "2021-12-01",
+            "price": 1275
+          }
+        ]
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-16"
+          }
+        ],
+        "startDate": "2022-10"
+      }
+    ],
+    "id": "rNMdoFm2U9SgKl9ODVHs"
+  },
+  {
+    "fatherName": "Petro",
+    "email": "pamela.xhelo@ivodent.edu.al",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2167,
+            "date": "2022-12-20"
+          }
+        ],
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 333
+      },
+      {
+        "startDate": "2023-10",
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "name": "Pamela Xhelo",
+    "uid": "EWTvkjcXPXewohADDIZUQDFhtWW2",
+    "id": "rVdu0iefn4R0fNM1EXja"
+  },
+  {
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "role": "student",
+    "email": "amarildo.shuli@ivodent.edu.al",
+    "payments": [
+      {
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "payments": [],
+        "startDate": "2022-10",
+        "discount": 1500
+      }
+    ],
+    "fatherName": "Ilirjan",
+    "uid": "WJGDjVzxJPNFWvclogTBhS9kTnx1",
+    "name": "Amarildo Shuli",
+    "id": "rdiBRtwzWZfFZw59TtzH"
+  },
+  {
+    "email": "support@ivodent.edu.al",
+    "name": "Support",
+    "uid": "y4LHEykdAWRMlbqe4UELefWgTiG3",
+    "role": "admin",
+    "id": "rdqANoFVJXr9728gok7D"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 956,
+            "date": "2023-01-10"
+          }
+        ],
+        "discount": 1544
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "email": "klajdi.bajrami@ivodent.edu.al",
+    "uid": "GVqyyqoFumTSwmcVPQxayQizdf82",
+    "fatherName": "Niko",
+    "name": "Klajdi Bajrami",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "s20KoEWEy4Iks71knD9q"
+  },
+  {
+    "uid": "gxydUngQAlc2D37D6Ou6Gc06t8k1",
+    "role": "student",
+    "name": "Erdoan Kelmendi",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "erdoan.kelmendi@ivodent.edu.al",
+    "fatherName": "Xhengiz",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 1500,
+            "date": "2021-10-18"
+          }
+        ],
+        "startDate": "2021-10",
+        "discount": 500,
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 250,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-16"
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2023-10"
+      }
+    ],
+    "id": "sEvg7j9hfPX6GxKhO6kW"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0
+      }
+    ],
+    "email": "leutrim.aliu@ivodent.edu.al",
+    "uid": "kFtIDTAbvwU1oCVvyPB2QekGygo1",
+    "fatherName": "Ismet",
+    "role": "student",
+    "name": "Leutrim Aliu",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "swecrq0cxupzv2XqMW9d"
+  },
+  {
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "payments": [],
+        "discount": 0,
+        "id": "mBj9x2KOQJ3y41FDygZ1"
+      }
+    ],
+    "fatherName": "",
+    "email": "ermelinda.kucana@ivodent.edu.al",
+    "role": "student",
+    "name": "Ermelinda Kuçana",
+    "uid": "bk23741yR7Pyw1R6kzoJrmS9E1s2",
+    "id": "tmtXYvmxUkIDGZ0IAf5j"
+  },
+  {
+    "role": "student",
+    "uid": "85lI225pygSZsVBv5VQh1DQHq8r1",
+    "email": "arbi.simoni@ivodent.edu.al",
+    "fatherName": "Gentian",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Arbi Simoni",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-22"
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "id": "u3WIQd7uXXqZ8XZhiIZr"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Shkëlqim",
+    "uid": "7EbxJzLhQGPLZwDBps1TMri9rlh2",
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2023-05-15",
+            "price": 2500
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0
+      },
+      {
+        "startDate": "2023-10",
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "startDate": "2024-10",
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "name": "Endri Beta",
+    "email": "endri.beta@ivodent.edu.al",
+    "id": "u7Yv8pew6zpxvrLu3tvv"
+  },
+  {
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2022-11-02",
+            "price": 2000
+          }
+        ]
+      },
+      {
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-11-04",
+            "price": 2250
+          }
+        ],
+        "startDate": "2022-10",
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2023-10",
+        "payments": []
+      }
+    ],
+    "uid": "y9Xdx7Q6lhWQaS0U5GnNsNuMsji2",
+    "name": "Fidela Rudaj",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Nikoll",
+    "email": "fidela.rudaj@ivodent.edu.al",
+    "id": "ujIQEWdPjDMovUiM7pVT"
+  },
+  {
+    "fatherName": "Arjan",
+    "name": "Erisa Sula",
+    "payments": [
+      {
+        "discount": 250,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "startDate": "2021-10",
+        "payments": [
+          {
+            "date": "2021-10-28",
+            "price": 2250
+          }
+        ]
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2250,
+            "date": "2022-11-14"
+          }
+        ],
+        "discount": 250
+      }
+    ],
+    "uid": "l1RjdiH1AZNJguqNudCHykYLS2s1",
+    "email": "erisa.sula@ivodent.edu.al",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "role": "student",
+    "id": "vIpZGawCqvNa4tcX5Ntx"
+  },
+  {
+    "uid": "BPX7rEkuFmWhsW7YnkHaqqRoZl93",
+    "email": "bunguri.eri@ivodent.edu.al",
+    "fatherName": "Edmond",
+    "role": "student",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "id": "vlDAVQx7P2fvE9SprSPi",
+        "discount": 1500,
+        "payments": []
+      }
+    ],
+    "name": "Eri Bunguri",
+    "id": "vOzy5kb4kQ1bzZwPxAVV"
+  },
+  {
+    "role": "student",
+    "email": "kristina.xherri@ivodent.edu.al",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "payments": [
+      {
+        "startDate": "2022-10",
+        "discount": 250,
+        "payments": [
+          {
+            "date": "2022-10-31",
+            "price": 2250
+          }
+        ],
+        "id": "sWNrp3z3q3D6fsf9PsWW"
+      },
+      {
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10"
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "payments": [],
+        "discount": 0
+      }
+    ],
+    "uid": "YDcZ8wqWs7gzf6wdPuiz8W35gR52",
+    "fatherName": "Halit",
+    "name": "Kristina Xherri",
+    "id": "vSPvurimwbaXa364YoxK"
+  },
+  {
+    "payments": [
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "vlDAVQx7P2fvE9SprSPi"
+      }
+    ],
+    "uid": "bGBubdn48YMtkZUstnjPsv6Sc1r2",
+    "name": "Ermal Çela",
+    "role": "student",
+    "fatherName": "Bashkim",
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "email": "ermal.cela@ivodent.edu.al",
+    "id": "vW3R00a1QVDIWgRYrQUy"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "xhuljano.musta@ivodent.edu.al",
+    "uid": "DsCb2uLwRDQHDk6mSVlb1Vj46bS2",
+    "fatherName": "Banush",
+    "name": "Xhuljano Musta",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2020-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2021-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "startDate": "2021-10",
+        "discount": 0,
+        "id": "94vQoRQH6C0Br7ZhRPF2"
+      },
+      {
+        "discount": 0,
+        "startDate": "2022-10",
+        "id": "HMDM0yu5QRzMmI0vrqHN",
+        "payments": []
+      }
+    ],
+    "id": "wWOD6cfgfV0sJpWHdUic"
+  },
+  {
+    "name": "Alba Lisha",
+    "email": "alba.lisha@ivodent.edu.al",
+    "role": "student",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "startDate": "2022-10",
+        "id": "vlDAVQx7P2fvE9SprSPi"
+      }
+    ],
+    "courses": ["vlDAVQx7P2fvE9SprSPi"],
+    "uid": "zdcHohbUngfVVwSUEGSo86JfGVA3",
+    "fatherName": "Dashnor",
+    "id": "wm4BZYbBTHYAP9kzev0S"
+  },
+  {
+    "role": "student",
+    "name": "Donaldo Seitllari",
+    "fatherName": "Arman",
+    "payments": [
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "donaldo.seitllari@ivodent.edu.al",
+    "uid": "ssqIRagA0wXBiq34cFRGIpez3qA3",
+    "id": "wph6O8JOq1do3xSYSr44"
+  },
+  {
+    "uid": "esGHn6jUdbdvBVcTQOPVSaCXskm1",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Erjon Andoni",
+    "role": "student",
+    "email": "erjon.andoni@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [
+          {
+            "date": "2022-12-22",
+            "price": 2000
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10"
+      },
+      {
+        "payments": [],
+        "discount": 0,
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD"
+      }
+    ],
+    "fatherName": "Qirjako",
+    "id": "xCpFDRya4jhnr4wvLPNE"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "name": "Anxhela Troshku",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-28"
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0
+      },
+      {
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "role": "student",
+    "uid": "nie9MYajmqgew3XQx07EMpU6JZI2",
+    "fatherName": "Dashmir",
+    "email": "anxhela.troshku@ivodent.edu.al",
+    "id": "xXQAQ4Duq8Ovwgvvn4VD"
+  },
+  {
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Xhezmi",
+    "role": "student",
+    "email": "albin.dika@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "payments": [],
+        "startDate": "2022-10"
+      },
+      {
+        "startDate": "2023-10",
+        "discount": 0,
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "payments": [],
+        "startDate": "2024-10",
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0
+      }
+    ],
+    "name": "Albin Dika",
+    "uid": "XCuCgwfzVYeD6RmZRQDtjzJNWvJ2",
+    "id": "yMW1exB5btGRRSF6BzPU"
+  },
+  {
+    "uid": "NbzQcCWSaqapH6TcJG6AlXKJbRs2",
+    "fatherName": "Genci",
+    "role": "student",
+    "email": "nekida.dervishi@ivodent.edu.al",
+    "payments": [
+      {
+        "discount": 0,
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "payments": [
+          {
+            "date": "2023-01-10",
+            "price": 2500
+          }
+        ],
+        "startDate": "2022-10"
+      },
+      {
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "payments": [],
+        "startDate": "2023-10",
+        "discount": 0
+      }
+    ],
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "name": "Nekida Dërvishi",
+    "id": "yZruy7KKYQpQBT3dY52Z"
+  },
+  {
+    "payments": [
+      {
+        "startDate": "2021-10",
+        "id": "KnA4NdXd9Bsx5IEwvXRj",
+        "discount": 250,
+        "payments": [
+          {
+            "price": 1000,
+            "date": "2023-03-27"
+          },
+          {
+            "price": 500,
+            "date": "2023-02-23"
+          },
+          {
+            "price": 500,
+            "date": "2022-11-21"
+          }
+        ]
+      },
+      {
+        "payments": [],
+        "id": "mBj9x2KOQJ3y41FDygZ1",
+        "discount": 0,
+        "startDate": "2022-10"
+      }
+    ],
+    "fatherName": "Fatos",
+    "role": "student",
+    "courses": ["KnA4NdXd9Bsx5IEwvXRj", "mBj9x2KOQJ3y41FDygZ1"],
+    "email": "eri.hoxhallari@ivodent.edu.al",
+    "name": "Eri Hoxhallari",
+    "uid": "G1dLJCfpL3SWTKUIbUP2Raig7W02",
+    "id": "yobkNoSUpQBx1UebFtlu"
+  },
+  {
+    "fatherName": "Kadri",
+    "payments": [
+      {
+        "payments": [
+          {
+            "price": 1664,
+            "date": "2022-12-20"
+          }
+        ],
+        "discount": 836,
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10"
+      },
+      {
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "discount": 0,
+        "startDate": "2023-10",
+        "payments": []
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "discount": 0,
+        "payments": [],
+        "startDate": "2024-10"
+      }
+    ],
+    "name": "Saide Caca",
+    "uid": "psyhIYS2eVTRZWd1qClElo2bEi53",
+    "email": "saide.caca@ivodent.edu.al",
+    "role": "student",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "id": "zNBOFg8hV6LHGMXsxL1F"
+  },
+  {
+    "fatherName": "Gjergj",
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "email": "olsi.marku@ivodent.edu.al",
+    "uid": "rd2UmAyXUPMochzZO07fOZV8Iny2",
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "date": "2022-10-17",
+            "price": 2250
+          }
+        ],
+        "discount": 250
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "85Iz7gJTQUUztiuJZkC0",
+        "startDate": "2023-10"
+      },
+      {
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10",
+        "discount": 0,
+        "payments": []
+      }
+    ],
+    "name": "Olsi Marku",
+    "role": "student",
+    "id": "zjXz10zKPfvI0zOfyFnF"
+  },
+  {
+    "payments": [
+      {
+        "id": "sWNrp3z3q3D6fsf9PsWW",
+        "discount": 0,
+        "startDate": "2022-10",
+        "payments": [
+          {
+            "price": 2500,
+            "date": "2022-12-22"
+          }
+        ]
+      },
+      {
+        "startDate": "2023-10",
+        "payments": [],
+        "discount": 0,
+        "id": "85Iz7gJTQUUztiuJZkC0"
+      },
+      {
+        "discount": 0,
+        "payments": [],
+        "id": "ecol9TBV3ARjnuWsqFYD",
+        "startDate": "2024-10"
+      }
+    ],
+    "courses": [
+      "sWNrp3z3q3D6fsf9PsWW",
+      "85Iz7gJTQUUztiuJZkC0",
+      "ecol9TBV3ARjnuWsqFYD"
+    ],
+    "fatherName": "Altin",
+    "role": "student",
+    "email": "alesia.karafili@ivodent.edu.al",
+    "uid": "KzGRD4Tql0ZzJYN0fsIXE89EC4n1",
+    "name": "Alesia Karafili",
+    "id": "zvwvfOrlWzTBYoLqon1C"
+  }
+]

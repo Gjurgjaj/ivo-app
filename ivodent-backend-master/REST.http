@@ -1,0 +1,19 @@
+### Add user
+POST https://ivodent-backend.vercel.app/admin/add HTTP/1.1
+content-type: application/json
+Authorization: Bearer y4LHEykdAWRMlbqe4UELefWgTiG3
+
+{
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "password": "123456"
+}
+
+### Remove User
+DELETE https://ivodent-backend.vercel.app/admin/remove HTTP/1.1
+content-type: application/json
+Authorization: Bearer y4LHEykdAWRMlbqe4UELefWgTiG3
+
+{
+    "uid": "fIG6nKuWU8bSmVnYLBdidSSsD6u1"
+}

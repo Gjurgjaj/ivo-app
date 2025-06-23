@@ -1,0 +1,51 @@
+@import "../typography";
+@import "../responsive";
+
+.dashboard {
+  display: grid;
+  grid-template-rows: 1fr;
+  row-gap: 24px;
+
+  .dashboard__loading {
+    padding: 24px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .dashboard__title {
+    margin-top: 24px;
+
+    @include typography(30px, 500, 38px, 0em, left);
+  }
+
+  .table {
+    .dashboard__subject {
+      max-width: 250px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .dashboard__grade {
+      & > span {
+        opacity: 0.6;
+      }
+    }
+
+    tbody {
+      tr {
+        td {
+          &:first-child {
+            width: 30px;
+          }
+        }
+      }
+    }
+  }
+
+  .dashboard__light {
+    opacity: 0.7;
+  }
+}

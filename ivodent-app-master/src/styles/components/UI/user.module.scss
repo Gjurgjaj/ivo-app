@@ -1,0 +1,19 @@
+@import "../../variables";
+@import "../../typography";
+
+.user {
+  display: flex;
+  flex-direction: column;
+
+  .user__name {
+    color: $gray-700;
+
+    @include typography(14px, 500, 20px, 0, left);
+  }
+
+  .user__email {
+    color: $gray-500;
+
+    @include typography(14px, 400, 20px, 0, left);
+  }
+}

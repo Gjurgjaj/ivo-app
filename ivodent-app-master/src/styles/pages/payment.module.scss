@@ -1,0 +1,140 @@
+@import "../variables";
+@import "../typography";
+@import "../responsive";
+
+.payment__title {
+  margin-top: 24px;
+
+  @include typography(30px, 500, 38px, 0em, left);
+}
+
+.payment__loading {
+  padding: 24px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.payments {
+  margin: 24px 0;
+
+  .payments__item {
+    margin-bottom: 16px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    .content__total_payment {
+      display: flex;
+      align-items: baseline;
+
+      .price {
+        color: $gray-900;
+        margin-right: 4px;
+
+        @include typography(36px, 500, 44px, -0.02em, left);
+      }
+
+      .description {
+        color: $gray-600;
+
+        @include typography(16px, 400, 24px, 0em, left);
+      }
+    }
+
+    .content__payments {
+      margin: 16px 0;
+
+      .payments__title {
+        color: $gray-700;
+
+        @include typography(16px, 400, 24px, 0em, left);
+      }
+
+      .students__payments {
+        position: relative;
+        list-style: none;
+        padding-left: 1.2em;
+
+        .payment {
+          color: $gray-800;
+          display: flex;
+          align-items: center;
+
+          @include typography(16px, 600, 24px, 0em, left);
+
+          &::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+          }
+
+          button {
+            padding: 0;
+            margin-left: 10px;
+            height: 23px;
+
+            svg {
+              scale: 0.8;
+            }
+          }
+        }
+      }
+
+      .payments__form {
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 10px;
+        column-gap: 10px;
+        margin-top: 16px;
+
+        @include responsive(tablet) {
+          grid-template-columns: 1fr 1fr;
+        }
+
+        @include responsive(pc-small) {
+          grid-template-columns: 1fr 1fr 1fr;
+        }
+
+        & > button {
+          justify-content: center;
+          height: fit-content;
+          align-self: flex-end;
+        }
+
+        & > button,
+        input {
+          padding: 6px 14px;
+        }
+      }
+    }
+
+    .content__info {
+      margin-top: 9px;
+
+      .info__main {
+        span {
+          color: $red-700 !important;
+          padding-left: 12px;
+        }
+      }
+
+      .info__main,
+      .info__second {
+        color: $gray-500;
+
+        @include typography(16px, 400, 24px, 0em, left);
+      }
+
+      .info__second {
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.bank__details {
+  color: $gray-700;
+}

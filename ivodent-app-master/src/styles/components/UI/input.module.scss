@@ -1,0 +1,64 @@
+@import "../../variables";
+@import "../../typography";
+
+.input {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  &__error {
+    .input__label {
+      color: $red-500 !important;
+    }
+
+    .input__el {
+      box-shadow: 0 0 0 1px $red-500 !important;
+      border: 1px solid $red-500 !important;
+    }
+  }
+
+  .input__label {
+    margin-bottom: 8px;
+    color: $slate-900;
+    transition: color 0.3s ease;
+
+    @include typography(14px, 500, 20px, 0em, left);
+  }
+
+  .input__el {
+    position: relative;
+    padding: 10px 18px;
+    border: 1px solid $gray-300;
+    border-radius: $border-radius;
+    background-color: white;
+    color: $slate-900;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+    @include typography(16px, 400, 24px, 0em, left);
+
+    &:disabled {
+      opacity: 0.6 !important;
+      cursor: text !important;
+      background-color: $gray-100;
+    }
+
+    &::placeholder {
+      color: #667085;
+    }
+
+    &:hover {
+      box-shadow: 0 0 0 1px $gray-200;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $gray-200;
+    }
+  }
+
+  .input__error {
+    color: $red-500;
+    margin-top: 6px;
+
+    @include typography(16px, 400, 24px, 0em, left);
+  }
+}

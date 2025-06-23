@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ivodent-app",
+  "private_key_id": "af59639319622f255a5a841ae223eada85993280",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCq8JG+PYjEmFIR\nsHlCYAeADI2E13zbfFVlfhfawL+exXtXb6LUX9Q9bFqL4es1F3WArmxLvD+gKGpv\nR+WcsT/NEf6Yl9fSt0mbtc8p2t6wCDEPz1BmZxapUc1sShI/eK4MJ7h4mC7pPtG6\nPGT+iCavxLcBkGrDAfPtx8WY2aCDP64uUSx3bGXTei9WQ/LkTkPpvdEbgsPJM6Du\nbQ4HKO6OMmd96dqjNIPND9wmvfQyLOXt6Jvy28HAWBEyfPcMATykyB73ATiH9py3\nY5rcMsSjMlF6LB27DeIcNzM2ZWTZaRKPKS9x/uTAp4PFnyE6JY19NcPWb+m2BRjK\nl/KJHLONAgMBAAECggEATYEO6601vkF78HZNvIkSzX2jisgzXcbVZ1ORGEeNejz6\n7A17TAR5FDJ1KXhQ7z0IM0SiaIJdbM32WCdGldGN5nqSr3glTG57KuT3nXgVwMWu\nDQeH4i46iaHD3KYG+Q1MCMnXq6IAnxOy/thUSE3OEKLGASkMJwfTJAwQbPm7e9Yd\nWWSk2T1d/UmMXO/Vdlo37wi8/8dOtIEJqzdwY4Pb5J7PwAlYqhGnmnHXB23VnugN\nyXwaFy4aKEEYgG4ffhqvth/J2BxnCOllRjUwPXPL00W+rGmadD+EyEiUvUNMH1Oq\nJvJBfAX6SFj5LcSDdarrNLhWtV+5tUkPaEEgtMmhZwKBgQDZifVQkgMMddo7/kq1\nCcB5hdjIFoAKXQYtqAQ8re+hQQIbqoE9U9a7qfQ2HpgFwLVYBjHhRZzJ4D2fr+N7\n2DMi7XHtI40WH1UiJnP70MqaFH2VTZ1pEKitz5ak9Wc/j44qx9KsNPzZuw7GnTWv\nrz0+r0K6/zYT+4sexzdZodk3YwKBgQDJKXub0P3I6UmX9O0EcIpvz5N7eDzpjtkK\nSVnEEYMWs7wuFBMN0pMvyqIo6dqDMGKm4XBAO7zIlTQs12zIBNiBSov1dZQ3dAeJ\n4QY9wlXyXiLycMwKEyu6Fp+J8620k9UYMzuT0yBBHVsBbYs8NB4kSn34W5ehEkx7\nU5O6xEG0TwKBgF3ViVCIuvHsAAeyx6zRmQmSN5EPS4ms2JZnC/TUnjGzZeJjKL44\nZL6sL6AMkEyi9FYUzf061seph0tTRk/MUTp2q5a7qAbr2wARECSFym6t+gGl6glA\n21Gl4ngjNrcPCCbh7LjFXm/YpSX8+ARhFYztcl5Q6ZWzAi5zhieOjbC7AoGAfkCW\n39hvL6WbFtAV4e9wM3SoL5nrQPrypU4cFL6Y86qitJjMzKQY1Kns1JjRF/1KLUrY\nVLgpaAqc0Hf0QiUobR0Icmn1OEiOYq7kZ+aMYq1Kabb5mGknzIdeYgqaPvd5itK8\n1a5wU+3ErETAWmyrbkOChFmX9POzJMPzuAhs5GkCgYB6krMAmVMiUV5QPazdcLLj\nYQLrfbGTKdyT4jv6IJKBoyRqvshK0G7w72nKc73ZPxRMDtiR4IzJK58CrVUG04V6\nZ/e108+lj2GSndb4VXc9c4z/cMLV2h+9E9fAd5Qu8U2YhD5CtklOBHFt2BsCShGK\nGWoHXQ1vLQ3u5u04Xpj16A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aujbk@ivodent-app.iam.gserviceaccount.com",
+  "client_id": "104427611915110896012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aujbk%40ivodent-app.iam.gserviceaccount.com"
+}
